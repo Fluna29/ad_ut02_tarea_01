@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Waymar Royce</character_name>
+    <character_link>/character/ch0171390/</character_link>
+    <character_image_thumb>https://images-na.ssl-images-amazon.com/images/M/MV5BYzE1Y2EwN2QtMzMzZS00MDZkLTg4ZjItN2NkNGNkYjAzZGVlXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1._SX100_SY140_.jpg</character_image_thumb>
+    <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BYzE1Y2EwN2QtMzMzZS00MDZkLTg4ZjItN2NkNGNkYjAzZGVlXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg</character_image_full>
+    <actor_name>Rob Ostlere</actor_name>
+    <actor_link>/name/nm3209935/</actor_link>
+    <parents>
+        <name>Yohn Royce</name>
+    </parents>
+    <killed_by>
+        <name>White Walker</name>
+    </killed_by>
+</character>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Ygritte</character_name>
+    <character_link>/character/ch0304492/</character_link>
+    <character_image_thumb>https://images-na.ssl-images-amazon.com/images/M/MV5BMTg0NDA1Njk3Nl5BMl5BanBnXkFtZTcwOTQ2NDk4OQ@@._V1._SX100_SY140_.jpg</character_image_thumb>
+    <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BMTg0NDA1Njk3Nl5BMl5BanBnXkFtZTcwOTQ2NDk4OQ@@._V1_SY1000_CR0,0,724,1000_AL_.jpg</character_image_full>
+    <actor_name>Rose Leslie</actor_name>
+    <actor_link>/name/nm3310211/</actor_link>
+    <married_engaged>
+        <name>Jon Snow</name>
+    </married_engaged>
+    <killed>
+        <name>Old Man</name>
+        <name>Guymon</name>
+        <name>Mole's Town Whore</name>
+        <name>Pypar</name>
+    </killed>
+    <killed_by>
+        <name>Olly</name>
+    </killed_by>
+</character>

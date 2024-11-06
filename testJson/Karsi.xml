@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Karsi</character_name>
+    <character_link>/character/ch0512707/</character_link>
+    <character_image_thumb>https://images-na.ssl-images-amazon.com/images/M/MV5BMjcxZWVjZTMtZTBhOS00ZjM5LTkxOTctNzdkMmU2ZTIzYzU5XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1._SX100_SY140_.jpg</character_image_thumb>
+    <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BMjcxZWVjZTMtZTBhOS00ZjM5LTkxOTctNzdkMmU2ZTIzYzU5XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg</character_image_full>
+    <actor_name>Birgitte Hjort Sørensen</actor_name>
+    <actor_link>/name/nm2171898/</actor_link>
+    <parent_of>
+        <name>Johnna</name>
+        <name>Willa</name>
+    </parent_of>
+    <killed_by>
+        <name>Pack of Wights</name>
+    </killed_by>
+</character>

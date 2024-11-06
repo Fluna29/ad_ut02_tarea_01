@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Tyrion Lannister</character_name>
+    <character_link>/character/ch0146096/</character_link>
+    <character_image_thumb>https://images-na.ssl-images-amazon.com/images/M/MV5BMjA2MDAwOTI0OV5BMl5BanBnXkFtZTcwNjA3NDg1Nw@@._V1._SX100_SY140_.jpg</character_image_thumb>
+    <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BMjA2MDAwOTI0OV5BMl5BanBnXkFtZTcwNjA3NDg1Nw@@._V1_SX1500_CR0,0,1500,999_AL_.jpg</character_image_full>
+    <actor_name>Peter Dinklage</actor_name>
+    <actor_link>/name/nm0227759/</actor_link>
+    <houses>
+        <house_name>Lannister</house_name>
+    </houses>
+    <parents>
+        <name>Tywin Lannister</name>
+    </parents>
+    <siblings>
+        <name>Cersei Lannister</name>
+        <name>Jaime Lannister</name>
+    </siblings>
+    <married_engaged>
+        <name>Sansa Stark</name>
+    </married_engaged>
+    <killed>
+        <name>Shae</name>
+        <name>Tywin Lannister</name>
+    </killed>
+    <serves>
+        <name>Daenerys Targaryen</name>
+    </serves>
+</character>

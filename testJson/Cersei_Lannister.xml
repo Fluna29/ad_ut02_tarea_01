@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Cersei Lannister</character_name>
+    <character_link>/character/ch0159526/</character_link>
+    <character_image_thumb>https://images-na.ssl-images-amazon.com/images/M/MV5BMTgzNTAxNjExMl5BMl5BanBnXkFtZTcwMDEwNzI4OQ@@._V1._CR954,56,605,670._SX100_SY140_.jpg</character_image_thumb>
+    <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BMTgzNTAxNjExMl5BMl5BanBnXkFtZTcwMDEwNzI4OQ@@._V1._CR954,56,605,670_.jpg</character_image_full>
+    <actor_name>Lena Headey</actor_name>
+    <actor_link>/name/nm0372176/</actor_link>
+    <houses>
+        <house_name>Lannister</house_name>
+        <house_name>Baratheon</house_name>
+    </houses>
+    <royal>true</royal>
+    <parents>
+        <name>Tywin Lannister</name>
+    </parents>
+    <parent_of>
+        <name>Joffrey Baratheon</name>
+        <name>Myrcella Baratheon</name>
+        <name>Tommen Baratheon</name>
+    </parent_of>
+    <siblings>
+        <name>Jaime Lannister</name>
+        <name>Tyrion Lannister</name>
+    </siblings>
+    <married_engaged>
+        <name>Robert Baratheon</name>
+    </married_engaged>
+    <killed>
+        <name>Lancel Lannister</name>
+        <name>High Sparrow</name>
+        <name>Loras Tyrell</name>
+        <name>Mace Tyrell</name>
+        <name>Margaery Tyrell</name>
+        <name>Kevan Lannister</name>
+        <name>Tyene Sand</name>
+    </killed>
+    <killed_by>
+        <name>Roof collapse</name>
+    </killed_by>
+</character>

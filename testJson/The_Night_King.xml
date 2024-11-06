@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>The Night King</character_name>
+    <character_link>/character/ch0512154/</character_link>
+    <character_image_thumb>https://images-na.ssl-images-amazon.com/images/M/MV5BY2ZjNmYyMjAtNGUwYi00N2JmLWEyMTYtMDM5YmM2MWFhMWFiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1._SX100_SY140_.jpg</character_image_thumb>
+    <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BY2ZjNmYyMjAtNGUwYi00N2JmLWEyMTYtMDM5YmM2MWFhMWFiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg</character_image_full>
+    <actors>
+        <actor>
+            <actor_name>Richard Brake</actor_name>
+            <actor_link>/name/nm0104114/</actor_link>
+            <seasons_active>
+                <season>4</season>
+                <season>5</season>
+            </seasons_active>
+        </actor>
+        <actor>
+            <actor_name>Vladimir 'Furdo' Furdik</actor_name>
+            <actor_link>/name/nm0298842/</actor_link>
+            <seasons_active>
+                <season>6</season>
+                <season>7</season>
+                <season>8</season>
+            </seasons_active>
+        </actor>
+    </actors>
+    <killed>
+        <name>Three-Eyed Raven</name>
+        <name>Viserion</name>
+        <name>Ned Umber</name>
+        <name>Theon Greyjoy</name>
+    </killed>
+    <killed_by>
+        <name>Arya Stark</name>
+    </killed_by>
+</character>

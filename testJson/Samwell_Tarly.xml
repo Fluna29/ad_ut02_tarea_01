@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Samwell Tarly</character_name>
+    <character_link>/character/ch0244961/</character_link>
+    <character_image_thumb>https://images-na.ssl-images-amazon.com/images/M/MV5BMTQyODYyOTczMF5BMl5BanBnXkFtZTcwNjY0ODg4OQ@@._V1._SX100_SY140_.jpg</character_image_thumb>
+    <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BMTQyODYyOTczMF5BMl5BanBnXkFtZTcwNjY0ODg4OQ@@._V1_.jpg</character_image_full>
+    <actor_name>John Bradley</actor_name>
+    <actor_link>/name/nm4263213/</actor_link>
+    <parents>
+        <name>Randyll Tarly</name>
+        <name>Melessa Tarly</name>
+    </parents>
+    <parent_of>
+        <name>Baby Sam</name>
+    </parent_of>
+    <siblings>
+        <name>Dickon Tarly</name>
+        <name>Talla Tarly</name>
+    </siblings>
+    <married_engaged>
+        <name>Gilly</name>
+    </married_engaged>
+    <killed>
+        <name>White Walker</name>
+        <name>Thenn Warg</name>
+    </killed>
+</character>

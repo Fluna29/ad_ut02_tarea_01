@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Mance Rayder</character_name>
+    <character_link>/character/ch0335039/</character_link>
+    <character_image_thumb>https://images-na.ssl-images-amazon.com/images/M/MV5BMTU3NzQyNjAwNF5BMl5BanBnXkFtZTcwODcyMTEwOQ@@._V1._SX100_SY140_.jpg</character_image_thumb>
+    <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BMTU3NzQyNjAwNF5BMl5BanBnXkFtZTcwODcyMTEwOQ@@._V1_SY1000_CR0,0,666,1000_AL_.jpg</character_image_full>
+    <actor_name>Ciarán Hinds</actor_name>
+    <actor_link>/name/nm0001354/</actor_link>
+    <killed_by>
+        <name>Melisandre</name>
+        <name>Jon Snow</name>
+    </killed_by>
+</character>

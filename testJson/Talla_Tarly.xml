@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Talla Tarly</character_name>
+    <character_link>/character/ch0523897/</character_link>
+    <character_image_thumb>https://images-na.ssl-images-amazon.com/images/M/MV5BZTYwYTA2MWEtM2FjNS00MDNhLWIyMzMtODI0Mjg2Y2ZlODBiXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1._SX100_SY140_.jpg</character_image_thumb>
+    <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BZTYwYTA2MWEtM2FjNS00MDNhLWIyMzMtODI0Mjg2Y2ZlODBiXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg</character_image_full>
+    <actor_name>Rebecca Benson</actor_name>
+    <actor_link>/name/nm5039410/</actor_link>
+    <houses>
+        <house_name>Tarly</house_name>
+    </houses>
+    <parents>
+        <name>Randyll Tarly</name>
+        <name>Melessa Tarly</name>
+    </parents>
+    <siblings>
+        <name>Dickon Tarly</name>
+        <name>Samwell Tarly</name>
+    </siblings>
+</character>

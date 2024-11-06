@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Jaqen H'ghar</character_name>
+    <character_link>/character/ch0259179/</character_link>
+    <character_image_thumb>https://images-na.ssl-images-amazon.com/images/M/MV5BMTA1MjI5MzYwNzNeQTJeQWpwZ15BbWU3MDkxNDcxOTk@._V1._SX100_SY140_.jpg</character_image_thumb>
+    <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BMTA1MjI5MzYwNzNeQTJeQWpwZ15BbWU3MDkxNDcxOTk@._V1_.jpg</character_image_full>
+    <actor_name>Tom Wlaschiha</actor_name>
+    <actor_link>/name/nm0937239/</actor_link>
+    <killed>
+        <name>The Tickler</name>
+        <name>Amory Lorch</name>
+        <name>Despondent Man</name>
+    </killed>
+</character>

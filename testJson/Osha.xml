@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Osha</character_name>
+    <character_link>/character/ch0295802/</character_link>
+    <character_image_thumb>https://images-na.ssl-images-amazon.com/images/M/MV5BMjI4NjY0ODY2OV5BMl5BanBnXkFtZTcwMzU5ODg4OQ@@._V1._SX100_SY140_.jpg</character_image_thumb>
+    <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BMjI4NjY0ODY2OV5BMl5BanBnXkFtZTcwMzU5ODg4OQ@@._V1_.jpg</character_image_full>
+    <actor_name>Natalia Tena</actor_name>
+    <actor_link>/name/nm1164730/</actor_link>
+    <killed>
+        <name>Drennan</name>
+        <name>Maester Luwin</name>
+    </killed>
+    <killed_by>
+        <name>Ramsay Snow</name>
+    </killed_by>
+</character>

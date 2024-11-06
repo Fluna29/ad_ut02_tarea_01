@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Tormund Giantsbane</character_name>
+    <character_link>/character/ch0316925/</character_link>
+    <character_image_thumb>https://images-na.ssl-images-amazon.com/images/M/MV5BMTc1OTU3NjUzNF5BMl5BanBnXkFtZTcwNDE0NzE5OQ@@._V1._SX100_SY140_.jpg</character_image_thumb>
+    <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BMTc1OTU3NjUzNF5BMl5BanBnXkFtZTcwNDE0NzE5OQ@@._V1_SY1000_CR0,0,717,1000_AL_.jpg</character_image_full>
+    <actor_name>Kristofer Hivju</actor_name>
+    <actor_link>/name/nm1970465/</actor_link>
+    <killed>
+        <name>Rattleshirt</name>
+        <name>Smalljon Umber</name>
+    </killed>
+</character>

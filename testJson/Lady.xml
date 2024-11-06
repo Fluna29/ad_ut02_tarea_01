@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Lady</character_name>
+    <houses>
+        <house_name>Stark</house_name>
+    </houses>
+    <guardian_of>
+        <name>Sansa Stark</name>
+    </guardian_of>
+    <siblings>
+        <name>Grey Wind</name>
+        <name>Nymeria</name>
+        <name>Summer</name>
+        <name>Shaggydog</name>
+        <name>Ghost</name>
+    </siblings>
+    <killed_by>
+        <name>Eddard Stark</name>
+    </killed_by>
+</character>

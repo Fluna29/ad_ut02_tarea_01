@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Lysa Arryn</character_name>
+    <character_link>/character/ch0251736/</character_link>
+    <character_image_thumb>https://images-na.ssl-images-amazon.com/images/M/MV5BMmNlYTYzOTYtOTg1ZC00YzdlLTliNTgtZDhjMTY1MGViZTA5XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1._SX100_SY140_.jpg</character_image_thumb>
+    <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BMmNlYTYzOTYtOTg1ZC00YzdlLTliNTgtZDhjMTY1MGViZTA5XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg</character_image_full>
+    <actor_name>Kate Dickie</actor_name>
+    <actor_link>/name/nm0225483/</actor_link>
+    <houses>
+        <house_name>Arryn</house_name>
+        <house_name>Tully</house_name>
+    </houses>
+    <parents>
+        <name>Hoster Tully</name>
+    </parents>
+    <siblings>
+        <name>Catelyn Tully</name>
+        <name>Edmure Tully</name>
+    </siblings>
+    <married_engaged>
+        <name>Petyr Baelish</name>
+    </married_engaged>
+    <killed>
+        <name>Jon Arryn</name>
+    </killed>
+    <killed_by>
+        <name>Petyr Baelish</name>
+    </killed_by>
+</character>

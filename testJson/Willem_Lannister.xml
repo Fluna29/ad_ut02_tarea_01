@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Willem Lannister</character_name>
+    <character_link>/character/ch0395356/</character_link>
+    <actor_name>Timothy Gibbons</actor_name>
+    <actor_link>/name/nm5624523/</actor_link>
+    <houses>
+        <house_name>Lannister</house_name>
+    </houses>
+    <parents>
+        <name>Kevan Lannister</name>
+    </parents>
+    <siblings>
+        <name>Lancel Lannister</name>
+        <name>Martyn Lannister</name>
+    </siblings>
+    <killed_by>
+        <name>Rickard Karstark</name>
+    </killed_by>
+</character>

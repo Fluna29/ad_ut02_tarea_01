@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Rhaegar Targaryen</character_name>
+    <houses>
+        <house_name>Targaryen</house_name>
+    </houses>
+    <royal>true</royal>
+    <parents>
+        <name>Rhaella Targaryen</name>
+        <name>Aerys II Targaryen</name>
+    </parents>
+    <parent_of>
+        <name>Jon Snow</name>
+        <name>Rhaenys Targaryen</name>
+        <name>Aegon Targaryen</name>
+    </parent_of>
+    <siblings>
+        <name>Daenerys Targaryen</name>
+        <name>Viserys Targaryen</name>
+    </siblings>
+    <married_engaged>
+        <name>Elia Martell</name>
+        <name>Lyanna Stark</name>
+    </married_engaged>
+    <abducted>
+        <name>Lyanna Stark</name>
+    </abducted>
+    <killed_by>
+        <name>Robert Baratheon</name>
+    </killed_by>
+</character>

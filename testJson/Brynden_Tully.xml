@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Brynden Tully</character_name>
+    <character_link>/character/ch0381563/</character_link>
+    <character_image_thumb>https://images-na.ssl-images-amazon.com/images/M/MV5BOTg5ZDIwOWUtMjQ1OS00YjgxLThmMDgtOWUwZjQ4MzE3ZDhlXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1._SX100_SY140_.jpg</character_image_thumb>
+    <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BOTg5ZDIwOWUtMjQ1OS00YjgxLThmMDgtOWUwZjQ4MzE3ZDhlXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg</character_image_full>
+    <actor_name>Clive Russell</actor_name>
+    <actor_link>/name/nm0751085/</actor_link>
+    <houses>
+        <house_name>Tully</house_name>
+    </houses>
+    <nickname>Blackfish</nickname>
+    <siblings>
+        <name>Hoster Tully</name>
+    </siblings>
+</character>

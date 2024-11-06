@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Craster</character_name>
+    <character_link>/character/ch0300218/</character_link>
+    <character_image_thumb>https://images-na.ssl-images-amazon.com/images/M/MV5BMzZiNjZiMGItNTQ2Yi00MGU3LWFjMTktNzlmNDFlYzA3MjY3XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1._SX100_SY140_.jpg</character_image_thumb>
+    <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BMzZiNjZiMGItNTQ2Yi00MGU3LWFjMTktNzlmNDFlYzA3MjY3XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg</character_image_full>
+    <actor_name>Robert Pugh</actor_name>
+    <actor_link>/name/nm0700059/</actor_link>
+    <killed_by>
+        <name>Karl Tanner</name>
+    </killed_by>
+</character>

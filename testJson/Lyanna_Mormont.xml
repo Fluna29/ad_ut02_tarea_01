@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Lyanna Mormont</character_name>
+    <character_link>/character/ch0541884/</character_link>
+    <character_image_thumb>https://images-na.ssl-images-amazon.com/images/M/MV5BOTY3MWNmYjAtZjZhYi00M2IzLWJjNDMtMjUzZmU3NTYyYWUxXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1._SX100_SY140_.jpg</character_image_thumb>
+    <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BOTY3MWNmYjAtZjZhYi00M2IzLWJjNDMtMjUzZmU3NTYyYWUxXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg</character_image_full>
+    <actor_name>Bella Ramsey</actor_name>
+    <actor_link>/name/nm8165602/</actor_link>
+    <houses>
+        <house_name>Mormont</house_name>
+    </houses>
+    <killed>
+        <name>Wun Wun</name>
+    </killed>
+    <killed_by>
+        <name>Wun Wun</name>
+    </killed_by>
+</character>

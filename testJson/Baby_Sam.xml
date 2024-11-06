@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Baby Sam</character_name>
+    <character_link>/character/ch0547881/</character_link>
+    <actors>
+        <actor>
+            <actor_name>William Wilson</actor_name>
+            <actor_link>/name/nm8251159/</actor_link>
+            <seasons_active>
+                <season>7</season>
+            </seasons_active>
+        </actor>
+        <actor>
+            <actor_name>James Wilson</actor_name>
+            <actor_link>/name/nm8251160/</actor_link>
+            <seasons_active>
+                <season>7</season>
+            </seasons_active>
+        </actor>
+    </actors>
+    <parents>
+        <name>Samwell Tarly</name>
+        <name>Gilly</name>
+    </parents>
+</character>

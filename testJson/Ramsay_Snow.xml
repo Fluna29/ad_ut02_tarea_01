@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Ramsay Snow</character_name>
+    <character_link>/character/ch0321004/</character_link>
+    <character_image_thumb>https://images-na.ssl-images-amazon.com/images/M/MV5BMzM5Nzk3NTU5N15BMl5BanBnXkFtZTgwNzczMjk5NTE@._V1._SX100_SY140_.jpg</character_image_thumb>
+    <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BMzM5Nzk3NTU5N15BMl5BanBnXkFtZTgwNzczMjk5NTE@._V1_SY1000_CR0,0,665,1000_AL_.jpg</character_image_full>
+    <actor_name>Iwan Rheon</actor_name>
+    <actor_link>/name/nm3701064/</actor_link>
+    <houses>
+        <house_name>Bolton</house_name>
+    </houses>
+    <parents>
+        <name>Roose Bolton</name>
+    </parents>
+    <married_engaged>
+        <name>Sansa Stark</name>
+    </married_engaged>
+    <killed>
+        <name>Master Torturer</name>
+        <name>Medger Cerwyn</name>
+        <name>Lady Cerwyn</name>
+        <name>Unidentified Cerwyn</name>
+        <name>Old Woman</name>
+        <name>Roose Bolton</name>
+        <name>Osha</name>
+        <name>Rickon Stark</name>
+        <name>Wun Wun</name>
+    </killed>
+    <killed_by>
+        <name>Ramsay Snow's Hounds</name>
+    </killed_by>
+</character>

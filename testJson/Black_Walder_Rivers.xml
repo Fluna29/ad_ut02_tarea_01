@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Black Walder Rivers</character_name>
+    <character_link>/character/ch0014591/</character_link>
+    <actor_name>Tim Plester</actor_name>
+    <actor_link>/name/nm1043031/</actor_link>
+    <houses>
+        <house_name>Frey</house_name>
+    </houses>
+    <parents>
+        <name>Walder Frey</name>
+    </parents>
+    <killed>
+        <name>Catelyn Stark</name>
+    </killed>
+    <killed_by>
+        <name>Arya Stark</name>
+    </killed_by>
+</character>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Randyll Tarly</character_name>
+    <character_link>/character/ch0524408/</character_link>
+    <character_image_thumb>https://images-na.ssl-images-amazon.com/images/M/MV5BMjIwMTY0NTc4N15BMl5BanBnXkFtZTgwNTMyNzYwOTE@._V1._SX100_SY140_.jpg</character_image_thumb>
+    <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BMjIwMTY0NTc4N15BMl5BanBnXkFtZTgwNTMyNzYwOTE@._V1_SY1000_CR0,0,1502,1000_AL_.jpg</character_image_full>
+    <actor_name>James Faulkner</actor_name>
+    <actor_link>/name/nm0269077/</actor_link>
+    <parent_of>
+        <name>Dickon Tarly</name>
+        <name>Samwell Tarly</name>
+        <name>Talla Tarly</name>
+    </parent_of>
+    <married_engaged>
+        <name>Melessa Tarly</name>
+    </married_engaged>
+    <killed_by>
+        <name>Daenerys Targaryen</name>
+    </killed_by>
+</character>

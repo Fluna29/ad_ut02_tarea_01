@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Gendry</character_name>
+    <character_link>/character/ch0300040/</character_link>
+    <character_image_thumb>https://images-na.ssl-images-amazon.com/images/M/MV5BMTcxNzYwMTk4MV5BMl5BanBnXkFtZTcwNDg1ODg4OQ@@._V1._SX100_SY140_.jpg</character_image_thumb>
+    <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BMTcxNzYwMTk4MV5BMl5BanBnXkFtZTcwNDg1ODg4OQ@@._V1_SY1000_CR0,0,846,1000_AL_.jpg</character_image_full>
+    <actor_name>Joe Dempsie</actor_name>
+    <actor_link>/name/nm1478079/</actor_link>
+    <houses>
+        <house_name>Baratheon</house_name>
+    </houses>
+    <parents>
+        <name>Robert Baratheon</name>
+    </parents>
+    <killed>
+        <name>Kevin Eldon</name>
+        <name>Laurence Spellman</name>
+    </killed>
+</character>

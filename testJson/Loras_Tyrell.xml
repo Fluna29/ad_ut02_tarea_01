@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Loras Tyrell</character_name>
+    <character_link>/character/ch0231428/</character_link>
+    <character_image_thumb>https://images-na.ssl-images-amazon.com/images/M/MV5BNzcwNDAxZGMtODU1Mi00YzA2LWJhMzYtN2FjZjg2YWZlMTQ4XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1._SX100_SY140_.jpg</character_image_thumb>
+    <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BNzcwNDAxZGMtODU1Mi00YzA2LWJhMzYtN2FjZjg2YWZlMTQ4XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg</character_image_full>
+    <actor_name>Finn Jones</actor_name>
+    <actor_link>/name/nm3645691/</actor_link>
+    <houses>
+        <house_name>Tyrell</house_name>
+    </houses>
+    <parents>
+        <name>Mace Tyrell</name>
+    </parents>
+    <siblings>
+        <name>Margaery Tyrell</name>
+    </siblings>
+    <killed_by>
+        <name>Cersei Lannister</name>
+    </killed_by>
+</character>

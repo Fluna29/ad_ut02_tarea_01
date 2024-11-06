@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Margaery Tyrell</character_name>
+    <character_link>/character/ch0251974/</character_link>
+    <character_image_thumb>https://images-na.ssl-images-amazon.com/images/M/MV5BMTkzODQ1MDg3NV5BMl5BanBnXkFtZTcwODA4NDk4OQ@@._V1._SX100_SY140_.jpg</character_image_thumb>
+    <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BMTkzODQ1MDg3NV5BMl5BanBnXkFtZTcwODA4NDk4OQ@@._V1_.jpg</character_image_full>
+    <actor_name>Natalie Dormer</actor_name>
+    <actor_link>/name/nm1754059/</actor_link>
+    <houses>
+        <house_name>Tyrell</house_name>
+    </houses>
+    <parents>
+        <name>Mace Tyrell</name>
+    </parents>
+    <siblings>
+        <name>Loras Tyrell</name>
+    </siblings>
+    <married_engaged>
+        <name>Renly Baratheon</name>
+        <name>Joffrey Baratheon</name>
+        <name>Tommen Baratheon</name>
+    </married_engaged>
+    <killed_by>
+        <name>Cersei Lannister</name>
+    </killed_by>
+</character>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Syrio Forel</character_name>
+    <character_link>/character/ch0246934/</character_link>
+    <character_image_thumb>https://images-na.ssl-images-amazon.com/images/M/MV5BMjE2OTA3NDY5Nl5BMl5BanBnXkFtZTcwMDg0ODg5NA@@._V1._SX100_SY140_.jpg</character_image_thumb>
+    <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BMjE2OTA3NDY5Nl5BMl5BanBnXkFtZTcwMDg0ODg5NA@@._V1_SY1000_CR0,0,665,1000_AL_.jpg</character_image_full>
+    <actor_name>Miltos Yerolemou</actor_name>
+    <actor_link>/name/nm1115654/</actor_link>
+    <killed_by>
+        <name>Meryn Trant</name>
+    </killed_by>
+</character>

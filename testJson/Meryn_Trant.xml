@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Meryn Trant</character_name>
+    <character_link>/character/ch0246933/</character_link>
+    <character_image_thumb>https://images-na.ssl-images-amazon.com/images/M/MV5BNTVjYTRhZWMtM2QwOC00MmYyLTk3ZjAtYmI1ZTlhNmQ3NzE0XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1._SX100_SY140_.jpg</character_image_thumb>
+    <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BNTVjYTRhZWMtM2QwOC00MmYyLTk3ZjAtYmI1ZTlhNmQ3NzE0XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg</character_image_full>
+    <actor_name>Ian Beattie</actor_name>
+    <actor_link>/name/nm0064155/</actor_link>
+    <killed>
+        <name>Syrio Forel</name>
+    </killed>
+    <killed_by>
+        <name>Arya Stark</name>
+    </killed_by>
+</character>

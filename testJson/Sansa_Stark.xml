@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Sansa Stark</character_name>
+    <character_link>/character/ch0158137/</character_link>
+    <character_image_thumb>https://images-na.ssl-images-amazon.com/images/M/MV5BNjAwMjE2NDExNF5BMl5BanBnXkFtZTcwODAwODg4OQ@@._V1._SX100_SY140_.jpg</character_image_thumb>
+    <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BNjAwMjE2NDExNF5BMl5BanBnXkFtZTcwODAwODg4OQ@@._V1_SY1000_CR0,0,806,1000_AL_.jpg</character_image_full>
+    <actor_name>Sophie Turner</actor_name>
+    <actor_link>/name/nm3849842/</actor_link>
+    <houses>
+        <house_name>Stark</house_name>
+    </houses>
+    <royal>true</royal>
+    <parents>
+        <name>Eddard Stark</name>
+        <name>Catelyn Stark</name>
+    </parents>
+    <guarded_by>
+        <name>Lady</name>
+    </guarded_by>
+    <siblings>
+        <name>Robb Stark</name>
+        <name>Arya Stark</name>
+        <name>Bran Stark</name>
+        <name>Rickon Stark</name>
+    </siblings>
+    <married_engaged>
+        <name>Joffrey Baratheon</name>
+        <name>Tyrion Lannister</name>
+        <name>Ramsay Snow</name>
+    </married_engaged>
+</character>

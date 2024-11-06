@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Khal Rhalko</character_name>
+    <character_link>/character/ch0535371/</character_link>
+    <character_image_thumb>https://images-na.ssl-images-amazon.com/images/M/MV5BYTFkMWRiMDItN2Q2Ny00N2VlLWIxMzYtZDMwODkwNDE4ZTYyXkEyXkFqcGdeQXVyMTk0NzA0Njg@._V1._SX100_SY140_.jpg</character_image_thumb>
+    <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BYTFkMWRiMDItN2Q2Ny00N2VlLWIxMzYtZDMwODkwNDE4ZTYyXkEyXkFqcGdeQXVyMTk0NzA0Njg@._V1_.jpg</character_image_full>
+    <actor_name>Andrei Claude</actor_name>
+    <actor_link>/name/nm3040811/</actor_link>
+    <killed_by>
+        <name>Daenerys Targaryen</name>
+    </killed_by>
+</character>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Maester Cressen</character_name>
+    <character_link>/character/ch0255280/</character_link>
+    <character_image_thumb>https://images-na.ssl-images-amazon.com/images/M/MV5BYjFmNDZjM2YtMGRkMy00NWM2LThjNWUtYzFkZGRjMjk0YWZlXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1._SX100_SY140_.jpg</character_image_thumb>
+    <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BYjFmNDZjM2YtMGRkMy00NWM2LThjNWUtYzFkZGRjMjk0YWZlXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg</character_image_full>
+    <actor_name>Oliver Ford Davies</actor_name>
+    <actor_link>/name/nm0203882/</actor_link>
+    <killed>
+        <name>Maester Cressen</name>
+    </killed>
+    <killed_by>
+        <name>Maester Cressen</name>
+    </killed_by>
+</character>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Doran Martell</character_name>
+    <character_link>/character/ch0468006/</character_link>
+    <character_image_thumb>https://images-na.ssl-images-amazon.com/images/M/MV5BZWU5NzJkNWMtYTM4MS00YmE2LWExYmItNDNiOTE3YzI5YzAxXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1._SX100_SY140_.jpg</character_image_thumb>
+    <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BZWU5NzJkNWMtYTM4MS00YmE2LWExYmItNDNiOTE3YzI5YzAxXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_SY1000_CR0,0,913,1000_AL_.jpg</character_image_full>
+    <actor_name>Alexander Siddig</actor_name>
+    <actor_link>/name/nm0796502/</actor_link>
+    <houses>
+        <house_name>Martell</house_name>
+    </houses>
+    <parent_of>
+        <name>Trystane Martell</name>
+    </parent_of>
+    <siblings>
+        <name>Elia Martell</name>
+        <name>Oberyn Martell</name>
+    </siblings>
+    <killed_by>
+        <name>Ellaria Sand</name>
+    </killed_by>
+</character>

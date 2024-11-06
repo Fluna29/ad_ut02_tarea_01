@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Jojen Reed</character_name>
+    <character_link>/character/ch0316921/</character_link>
+    <character_image_thumb>https://images-na.ssl-images-amazon.com/images/M/MV5BMTg0OTU4MTk4M15BMl5BanBnXkFtZTcwMTE4MTE5OQ@@._V1._SX100_SY140_.jpg</character_image_thumb>
+    <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BMTg0OTU4MTk4M15BMl5BanBnXkFtZTcwMTE4MTE5OQ@@._V1_.jpg</character_image_full>
+    <actor_name>Thomas Brodie-Sangster</actor_name>
+    <actor_link>/name/nm1032473/</actor_link>
+    <parents>
+        <name>Howland Reed</name>
+    </parents>
+    <siblings>
+        <name>Meera Reed</name>
+    </siblings>
+    <killed_by>
+        <name>Meera Reed</name>
+    </killed_by>
+</character>

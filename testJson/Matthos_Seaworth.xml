@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Matthos Seaworth</character_name>
+    <character_link>/character/ch0305029/</character_link>
+    <character_image_thumb>https://images-na.ssl-images-amazon.com/images/M/MV5BMTBlYmZlMGEtMzg5Yy00OGFjLWE3Y2MtNjc2NTViN2ExNzM3XkEyXkFqcGdeQXVyMjg2MTMyNTM@._V1._SX100_SY140_.jpg</character_image_thumb>
+    <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BMTBlYmZlMGEtMzg5Yy00OGFjLWE3Y2MtNjc2NTViN2ExNzM3XkEyXkFqcGdeQXVyMjg2MTMyNTM@._V1_.jpg</character_image_full>
+    <actor_name>Kerr Logan</actor_name>
+    <actor_link>/name/nm4523680/</actor_link>
+    <parents>
+        <name>Davos Seaworth</name>
+    </parents>
+    <killed_by>
+        <name>Bronn</name>
+    </killed_by>
+</character>

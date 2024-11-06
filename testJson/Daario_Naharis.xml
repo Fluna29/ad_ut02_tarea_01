@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Daario Naharis</character_name>
+    <character_link>/character/ch0335040/</character_link>
+    <character_image_thumb>https://images-na.ssl-images-amazon.com/images/M/MV5BY2ExMDJmNzMtMDVmZi00MDNlLWI1NzYtOTkxOTdlOWU4YzE4XkEyXkFqcGdeQXVyNTcxMzMwNTA@._V1._SX100_SY140_.jpg</character_image_thumb>
+    <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BY2ExMDJmNzMtMDVmZi00MDNlLWI1NzYtOTkxOTdlOWU4YzE4XkEyXkFqcGdeQXVyNTcxMzMwNTA@._V1_SY1000_CR0,0,665,1000_AL_.jpg</character_image_full>
+    <actors>
+        <actor>
+            <actor_name>Ed Skrein</actor_name>
+            <actor_link>/name/nm4534098/</actor_link>
+            <seasons_active>
+                <season>3</season>
+            </seasons_active>
+        </actor>
+        <actor>
+            <actor_name>Michiel Huisman</actor_name>
+            <actor_link>/name/nm0401264/</actor_link>
+            <seasons_active>
+                <season>4</season>
+                <season>5</season>
+                <season>6</season>
+            </seasons_active>
+        </actor>
+    </actors>
+    <killed>
+        <name>Mero</name>
+        <name>Prendahl na Ghezn</name>
+        <name>Oznak zo Pahl</name>
+        <name>Mossador</name>
+        <name>Iggo</name>
+        <name>Akho</name>
+    </killed>
+    <serves>
+        <name>Daenerys Targaryen</name>
+    </serves>
+</character>

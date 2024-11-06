@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Theon Greyjoy</character_name>
+    <character_link>/character/ch0158526/</character_link>
+    <character_image_thumb>https://images-na.ssl-images-amazon.com/images/M/MV5BMTM3ODUyOTY3N15BMl5BanBnXkFtZTcwNjI4MTg4OQ@@._V1._SX100_SY140_.jpg</character_image_thumb>
+    <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BMTM3ODUyOTY3N15BMl5BanBnXkFtZTcwNjI4MTg4OQ@@._V1_.jpg</character_image_full>
+    <actor_name>Alfie Allen</actor_name>
+    <actor_link>/name/nm0654295/</actor_link>
+    <houses>
+        <house_name>Greyjoy</house_name>
+    </houses>
+    <parents>
+        <name>Balon Greyjoy</name>
+    </parents>
+    <siblings>
+        <name>Yara Greyjoy</name>
+    </siblings>
+    <killed>
+        <name>Stiv</name>
+        <name>Rodrik Cassel</name>
+        <name>Myranda</name>
+        <name>Bolton Soldier</name>
+        <name>Harrag</name>
+    </killed>
+    <killed_by>
+        <name>The Night King</name>
+    </killed_by>
+</character>

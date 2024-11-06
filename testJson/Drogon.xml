@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Drogon</character_name>
+    <houses>
+        <house_name>Targaryen</house_name>
+    </houses>
+    <guardian_of>
+        <name>Daenerys Targaryen</name>
+    </guardian_of>
+    <siblings>
+        <name>Rhaegal</name>
+        <name>Viserion</name>
+    </siblings>
+    <killed>
+        <name>Pyat Pree</name>
+        <name>Kraznys mo Nakloz</name>
+        <name>Zalla</name>
+    </killed>
+</character>

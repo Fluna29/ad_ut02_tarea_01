@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Rickon Stark</character_name>
+    <character_link>/character/ch0233141/</character_link>
+    <character_image_thumb>https://images-na.ssl-images-amazon.com/images/M/MV5BMWZiOGNjMDAtOTRlNi00MDJmLWEyMTMtOGEwZTM5ODJlNDAyXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1._SX100_SY140_.jpg</character_image_thumb>
+    <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BMWZiOGNjMDAtOTRlNi00MDJmLWEyMTMtOGEwZTM5ODJlNDAyXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg</character_image_full>
+    <actor_name>Art Parkinson</actor_name>
+    <actor_link>/name/nm3280686/</actor_link>
+    <houses>
+        <house_name>Stark</house_name>
+    </houses>
+    <parents>
+        <name>Eddard Stark</name>
+        <name>Catelyn Stark</name>
+    </parents>
+    <guarded_by>
+        <name>Shaggydog</name>
+    </guarded_by>
+    <siblings>
+        <name>Robb Stark</name>
+        <name>Sansa Stark</name>
+        <name>Arya Stark</name>
+        <name>Bran Stark</name>
+    </siblings>
+    <killed_by>
+        <name>Ramsay Snow</name>
+    </killed_by>
+</character>

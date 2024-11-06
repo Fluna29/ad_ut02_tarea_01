@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Aeron Greyjoy</character_name>
+    <character_link>/character/ch0540081/</character_link>
+    <character_image_thumb>https://images-na.ssl-images-amazon.com/images/M/MV5BNzI5MDg0ZDAtN2Y2ZC00MzU1LTgyYjQtNTBjYjEzODczZDVhXkEyXkFqcGdeQXVyNTg0Nzg4NTE@._V1._SX100_SY140_.jpg</character_image_thumb>
+    <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BNzI5MDg0ZDAtN2Y2ZC00MzU1LTgyYjQtNTBjYjEzODczZDVhXkEyXkFqcGdeQXVyNTg0Nzg4NTE@._V1_.jpg</character_image_full>
+    <actor_name>Michael Feast</actor_name>
+    <actor_link>/name/nm0269923/</actor_link>
+    <houses>
+        <house_name>Greyjoy</house_name>
+    </houses>
+    <nickname>Damphair</nickname>
+    <siblings>
+        <name>Balon Greyjoy</name>
+        <name>Euron Greyjoy</name>
+    </siblings>
+</character>

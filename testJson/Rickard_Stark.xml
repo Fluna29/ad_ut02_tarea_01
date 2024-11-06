@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Rickard Stark</character_name>
+    <houses>
+        <house_name>Stark</house_name>
+    </houses>
+    <parent_of>
+        <name>Brandon Stark</name>
+        <name>Benjen Stark</name>
+        <name>Eddard Stark</name>
+        <name>Lyanna Stark</name>
+    </parent_of>
+    <killed_by>
+        <name>Aerys II Targaryen</name>
+    </killed_by>
+</character>

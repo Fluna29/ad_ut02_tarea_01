@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Joffrey Baratheon</character_name>
+    <character_link>/character/ch0156278/</character_link>
+    <character_image_thumb>https://images-na.ssl-images-amazon.com/images/M/MV5BMTk1NDg5MTAwMl5BMl5BanBnXkFtZTcwOTIwODg4OQ@@._V1._SX100_SY140_.jpg</character_image_thumb>
+    <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BMTk1NDg5MTAwMl5BMl5BanBnXkFtZTcwOTIwODg4OQ@@._V1_SY1000_CR0,0,818,1000_AL_.jpg</character_image_full>
+    <actor_name>Jack Gleeson</actor_name>
+    <actor_link>/name/nm0322416/</actor_link>
+    <houses>
+        <house_name>Baratheon</house_name>
+    </houses>
+    <royal>true</royal>
+    <parents>
+        <name>Robert Baratheon</name>
+        <name>Cersei Lannister</name>
+        <name>Jaime Lannister</name>
+    </parents>
+    <siblings>
+        <name>Myrcella Baratheon</name>
+        <name>Tommen Baratheon</name>
+    </siblings>
+    <married_engaged>
+        <name>Sansa Stark</name>
+        <name>Margaery Tyrell</name>
+    </married_engaged>
+    <killed>
+        <name>Ros</name>
+    </killed>
+    <killed_by>
+        <name>Petyr Baelish</name>
+        <name>Olenna Tyrell</name>
+    </killed_by>
+</character>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Shaggydog</character_name>
+    <houses>
+        <house_name>Stark</house_name>
+    </houses>
+    <guardian_of>
+        <name>Rickon Stark</name>
+    </guardian_of>
+    <siblings>
+        <name>Grey Wind</name>
+        <name>Lady</name>
+        <name>Nymeria</name>
+        <name>Summer</name>
+        <name>Ghost</name>
+    </siblings>
+    <killed_by>
+        <name>Smalljon Umber</name>
+    </killed_by>
+</character>

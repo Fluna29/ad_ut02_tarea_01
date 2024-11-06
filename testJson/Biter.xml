@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Biter</character_name>
+    <character_link>/character/ch0305028/</character_link>
+    <character_image_thumb>https://images-na.ssl-images-amazon.com/images/M/MV5BMjQ1ZWY3NTYtNmYzZS00ZDQyLThhMDItYTQyNmU0ZDg5NWViL2ltYWdlXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_SY100_SX100_AL_.jpg</character_image_thumb>
+    <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BMjQ1ZWY3NTYtNmYzZS00ZDQyLThhMDItYTQyNmU0ZDg5NWViL2ltYWdlXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg</character_image_full>
+    <actor_name>Gerard Jordan</actor_name>
+    <actor_link>/name/nm0429956/</actor_link>
+    <killed_by>
+        <name>Sandor Clegane</name>
+    </killed_by>
+</character>

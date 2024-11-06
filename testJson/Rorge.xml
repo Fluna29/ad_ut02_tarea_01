@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Rorge</character_name>
+    <character_link>/character/ch0305019/</character_link>
+    <character_image_thumb>https://images-na.ssl-images-amazon.com/images/M/MV5BZjE4Mjc3MTktMDYyOC00ZDVlLWJlNjMtYzFiMDFlYzg3MjJjXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1._SX100_SY140_.jpg</character_image_thumb>
+    <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BZjE4Mjc3MTktMDYyOC00ZDVlLWJlNjMtYzFiMDFlYzg3MjJjXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg</character_image_full>
+    <actor_name>Andy Beckwith</actor_name>
+    <actor_link>/name/nm0065874/</actor_link>
+    <killed_by>
+        <name>Arya Stark</name>
+    </killed_by>
+</character>

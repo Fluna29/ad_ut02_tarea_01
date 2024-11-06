@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Balon Greyjoy</character_name>
+    <character_link>/character/ch0292152/</character_link>
+    <character_image_thumb>https://images-na.ssl-images-amazon.com/images/M/MV5BMTUxNjkwODczN15BMl5BanBnXkFtZTcwODMwNTgzNw@@._V1._SX100_SY140_.jpg</character_image_thumb>
+    <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BMTUxNjkwODczN15BMl5BanBnXkFtZTcwODMwNTgzNw@@._V1_SY1000_CR0,0,637,1000_AL_.jpg</character_image_full>
+    <actor_name>Patrick Malahide</actor_name>
+    <actor_link>/name/nm0538869/</actor_link>
+    <houses>
+        <house_name>Greyjoy</house_name>
+    </houses>
+    <parent_of>
+        <name>Yara Greyjoy</name>
+        <name>Theon Greyjoy</name>
+    </parent_of>
+    <siblings>
+        <name>Euron Greyjoy</name>
+        <name>Aeron Greyjoy</name>
+    </siblings>
+    <killed_by>
+        <name>Euron Greyjoy</name>
+    </killed_by>
+</character>

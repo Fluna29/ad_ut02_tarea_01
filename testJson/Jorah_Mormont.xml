@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Jorah Mormont</character_name>
+    <character_link>/character/ch0158221/</character_link>
+    <character_image_thumb>https://images-na.ssl-images-amazon.com/images/M/MV5BMTkzNTcxMDI2NV5BMl5BanBnXkFtZTcwMzgxNzI4OQ@@._V1._CR225,437,407,405._SX100_SY140_.jpg</character_image_thumb>
+    <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BMTkzNTcxMDI2NV5BMl5BanBnXkFtZTcwMzgxNzI4OQ@@._V1._CR225,437,407,405_.jpg</character_image_full>
+    <actor_name>Iain Glen</actor_name>
+    <actor_link>/name/nm0322513/</actor_link>
+    <houses>
+        <house_name>Mormont</house_name>
+    </houses>
+    <parents>
+        <name>Jeor Mormont</name>
+    </parents>
+    <killed>
+        <name>Qotho</name>
+        <name>Norvoshi Pit Fighter</name>
+        <name>Meereenese Champion</name>
+    </killed>
+    <killed_by>
+        <name>Wights</name>
+    </killed_by>
+    <serves>
+        <name>Daenerys Targaryen</name>
+    </serves>
+</character>

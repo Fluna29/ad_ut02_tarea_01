@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Maester Aemon</character_name>
+    <character_link>/character/ch0246936/</character_link>
+    <character_image_thumb>https://images-na.ssl-images-amazon.com/images/M/MV5BMjI4NDY4MzI5NV5BMl5BanBnXkFtZTcwMTk0ODg5NA@@._V1._SX100_SY140_.jpg</character_image_thumb>
+    <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BMjI4NDY4MzI5NV5BMl5BanBnXkFtZTcwMTk0ODg5NA@@._V1_SX1500_CR0,0,1500,999_AL_.jpg</character_image_full>
+    <actor_name>Peter Vaughan</actor_name>
+    <actor_link>/name/nm0891092/</actor_link>
+    <houses>
+        <house_name>Targaryen</house_name>
+    </houses>
+    <killed_by>
+        <name>Old Age</name>
+    </killed_by>
+</character>

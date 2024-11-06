@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Renly Baratheon</character_name>
+    <character_link>/character/ch0246253/</character_link>
+    <character_image_thumb>https://images-na.ssl-images-amazon.com/images/M/MV5BNjA4OTE5MzcyOF5BMl5BanBnXkFtZTcwNDA1ODg5NA@@._V1._SX100_SY140_.jpg</character_image_thumb>
+    <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BNjA4OTE5MzcyOF5BMl5BanBnXkFtZTcwNDA1ODg5NA@@._V1_SX1500_CR0,0,1500,999_AL_.jpg</character_image_full>
+    <actor_name>Gethin Anthony</actor_name>
+    <actor_link>/name/nm2167445/</actor_link>
+    <houses>
+        <house_name>Baratheon</house_name>
+    </houses>
+    <siblings>
+        <name>Robert Baratheon</name>
+        <name>Stannis Baratheon</name>
+    </siblings>
+    <married_engaged>
+        <name>Margaery Tyrell</name>
+    </married_engaged>
+    <killed_by>
+        <name>Melisandre</name>
+    </killed_by>
+</character>

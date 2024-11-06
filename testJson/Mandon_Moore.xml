@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Mandon Moore</character_name>
+    <character_link>/character/ch0306220/</character_link>
+    <actor_name>James Doran</actor_name>
+    <actor_link>/name/nm0243696/</actor_link>
+    <kingsguard>true</kingsguard>
+    <killed_by>
+        <name>Podrick Payne</name>
+    </killed_by>
+</character>

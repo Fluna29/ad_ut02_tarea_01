@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Gregor Clegane</character_name>
+    <character_link>/character/ch0245401/</character_link>
+    <character_image_thumb>https://images-na.ssl-images-amazon.com/images/M/MV5BMTU3OTg2MTM2MF5BMl5BanBnXkFtZTcwNDk1NzE5OQ@@._V1._SX100_SY140_.jpg</character_image_thumb>
+    <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BMTU3OTg2MTM2MF5BMl5BanBnXkFtZTcwNDk1NzE5OQ@@._V1_.jpg</character_image_full>
+    <actors>
+        <actor>
+            <actor_name>Ian Whyte</actor_name>
+            <actor_link>/name/nm1613839/</actor_link>
+            <seasons_active>
+                <season>2</season>
+            </seasons_active>
+        </actor>
+        <actor>
+            <actor_name>Conan Stevens</actor_name>
+            <actor_link>/name/nm1947403/</actor_link>
+            <seasons_active>
+                <season>1</season>
+            </seasons_active>
+        </actor>
+        <actor>
+            <actor_name>Hafþór Júlíus Björnsson</actor_name>
+            <actor_link>/name/nm5491087/</actor_link>
+            <seasons_active>
+                <season>4</season>
+                <season>5</season>
+                <season>6</season>
+                <season>7</season>
+                <season>8</season>
+            </seasons_active>
+        </actor>
+    </actors>
+    <nickname>The Mountain</nickname>
+    <killed>
+        <name>Elia Martell</name>
+        <name>Rhaenys Targaryen</name>
+        <name>Aegon Targaryen</name>
+        <name>Hugh of the Vale</name>
+        <name>Oberyn Martell</name>
+        <name>King's Landing Boaster</name>
+        <name>Faith Militant</name>
+        <name>Missandei</name>
+        <name>Qyburn</name>
+    </killed>
+    <killed_by>
+        <name>Sandor Clegane</name>
+    </killed_by>
+    <serves>
+        <name>Tywin Lannister</name>
+        <name>Cersei Lannister</name>
+    </serves>
+</character>

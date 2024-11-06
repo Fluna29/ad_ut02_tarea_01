@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Rast</character_name>
+    <character_link>/character/ch0251498/</character_link>
+    <character_image_thumb>https://images-na.ssl-images-amazon.com/images/M/MV5BYzI5NjQ3ZTctODgyYi00ZTZhLTk2M2EtM2E3MzYxNDBkMWU5XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1._SX100_SY140_.jpg</character_image_thumb>
+    <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BYzI5NjQ3ZTctODgyYi00ZTZhLTk2M2EtM2E3MzYxNDBkMWU5XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg</character_image_full>
+    <actor_name>Luke Barnes</actor_name>
+    <actor_link>/name/nm4430828/</actor_link>
+    <killed>
+        <name>Jeor Mormont</name>
+    </killed>
+    <killed_by>
+        <name>Ghost</name>
+    </killed_by>
+</character>

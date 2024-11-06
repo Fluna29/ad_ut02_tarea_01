@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Great Master #2</character_name>
+    <character_link>/character/ch0525536/</character_link>
+    <actors>
+        <actor>
+            <actor_name>Derek Horsham</actor_name>
+            <actor_link>/name/nm2471942/</actor_link>
+            <seasons_active>
+                <season>4</season>
+            </seasons_active>
+        </actor>
+        <actor>
+            <actor_name>Bobby Asghar</actor_name>
+            <actor_link>/name/nm6800489/</actor_link>
+            <seasons_active>
+                <season>5</season>
+            </seasons_active>
+        </actor>
+    </actors>
+</character>

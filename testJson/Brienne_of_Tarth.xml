@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Brienne of Tarth</character_name>
+    <character_link>/character/ch0254503/</character_link>
+    <character_image_thumb>https://images-na.ssl-images-amazon.com/images/M/MV5BMTYzNDY4NzgzOV5BMl5BanBnXkFtZTcwNDM5ODg4OQ@@._V1._SX100_SY140_.jpg</character_image_thumb>
+    <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BMTYzNDY4NzgzOV5BMl5BanBnXkFtZTcwNDM5ODg4OQ@@._V1_.jpg</character_image_full>
+    <actor_name>Gwendoline Christie</actor_name>
+    <actor_link>/name/nm3729225/</actor_link>
+    <kingsguard>true</kingsguard>
+    <killed>
+        <name>Soldier Tom</name>
+        <name>Stannis Baratheon</name>
+        <name>Bolton Officer</name>
+    </killed>
+    <serves>
+        <name>Renly Baratheon</name>
+        <name>Catelyn Stark</name>
+        <name>Sansa Stark</name>
+        <name>Bran Stark</name>
+    </serves>
+    <served_by>
+        <name>Podrick Payne</name>
+    </served_by>
+</character>

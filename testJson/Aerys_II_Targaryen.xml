@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Aerys II Targaryen</character_name>
+    <character_link>/character/ch0541362/</character_link>
+    <character_image_thumb>https://images-na.ssl-images-amazon.com/images/M/MV5BMWQzOWViN2ItNDZhOS00MmZlLTkxZTYtZDg5NGUwMGRmYWZjL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1._SX100_SY140_.jpg</character_image_thumb>
+    <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BMWQzOWViN2ItNDZhOS00MmZlLTkxZTYtZDg5NGUwMGRmYWZjL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg</character_image_full>
+    <actor_name>David Rintoul</actor_name>
+    <actor_link>/name/nm0727778/</actor_link>
+    <houses>
+        <house_name>Targaryen</house_name>
+    </houses>
+    <nickname>The Mad King</nickname>
+    <royal>true</royal>
+    <parent_of>
+        <name>Daenerys Targaryen</name>
+        <name>Rhaegar Targaryen</name>
+        <name>Viserys Targaryen</name>
+    </parent_of>
+    <siblings>
+        <name>Rhaella Targaryen</name>
+    </siblings>
+    <married_engaged>
+        <name>Rhaella Targaryen</name>
+    </married_engaged>
+    <killed>
+        <name>Brandon Stark</name>
+        <name>Rickard Stark</name>
+    </killed>
+    <killed_by>
+        <name>Jaime Lannister</name>
+    </killed_by>
+    <served_by>
+        <name>Arthur Dayne</name>
+        <name>Jaime Lannister</name>
+    </served_by>
+</character>

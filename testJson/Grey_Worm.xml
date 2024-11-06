@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Grey Worm</character_name>
+    <character_link>/character/ch0335038/</character_link>
+    <character_image_thumb>https://images-na.ssl-images-amazon.com/images/M/MV5BMjk3ZDJlNTQtZDBiMC00ODVhLTlmYmYtYzkxMDA0N2QxNDY0XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1._SX100_SY140_.jpg</character_image_thumb>
+    <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BMjk3ZDJlNTQtZDBiMC00ODVhLTlmYmYtYzkxMDA0N2QxNDY0XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg</character_image_full>
+    <actor_name>Jacob Anderson</actor_name>
+    <actor_link>/name/nm2760664/</actor_link>
+    <killed>
+        <name>Belicho Paenymion</name>
+        <name>Razdal mo Eraz</name>
+        <name>Harry Strickland</name>
+    </killed>
+    <serves>
+        <name>Daenerys Targaryen</name>
+    </serves>
+</character>

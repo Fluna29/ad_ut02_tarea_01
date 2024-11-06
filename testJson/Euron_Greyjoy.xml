@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Euron Greyjoy</character_name>
+    <character_link>/character/ch0518715/</character_link>
+    <character_image_thumb>https://images-na.ssl-images-amazon.com/images/M/MV5BNzg1MTJhMjMtMmY4Yy00NTU2LTliZWUtNjM4YzAxY2M3ZDBkXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1._SX100_SY140_.jpg</character_image_thumb>
+    <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BNzg1MTJhMjMtMmY4Yy00NTU2LTliZWUtNjM4YzAxY2M3ZDBkXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg</character_image_full>
+    <actor_name>Pilou Asbæk</actor_name>
+    <actor_link>/name/nm1561982/</actor_link>
+    <houses>
+        <house_name>Greyjoy</house_name>
+    </houses>
+    <siblings>
+        <name>Balon Greyjoy</name>
+        <name>Aeron Greyjoy</name>
+    </siblings>
+    <killed>
+        <name>Balon Greyjoy</name>
+        <name>Obara Sand</name>
+        <name>Nymeria Sand</name>
+        <name>Rhaegal</name>
+    </killed>
+    <killed_by>
+        <name>Jaime Lannister</name>
+    </killed_by>
+</character>

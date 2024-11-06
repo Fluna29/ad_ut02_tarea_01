@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Podrick Payne</character_name>
+    <character_link>/character/ch0306046/</character_link>
+    <character_image_thumb>https://images-na.ssl-images-amazon.com/images/M/MV5BNTU5NjczOTQyNl5BMl5BanBnXkFtZTcwMzMwNTk4OQ@@._V1._SX100_SY140_.jpg</character_image_thumb>
+    <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BNTU5NjczOTQyNl5BMl5BanBnXkFtZTcwMzMwNTk4OQ@@._V1_.jpg</character_image_full>
+    <actor_name>Daniel Portman</actor_name>
+    <actor_link>/name/nm4535552/</actor_link>
+    <kingsguard>true</kingsguard>
+    <killed>
+        <name>Mandon Moore</name>
+        <name>Bolton Soldier</name>
+    </killed>
+    <serves>
+        <name>Tyrion Lannister</name>
+        <name>Brienne of Tarth</name>
+        <name>Bran Stark</name>
+    </serves>
+</character>

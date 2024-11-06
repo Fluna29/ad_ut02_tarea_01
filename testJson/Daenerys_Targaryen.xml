@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Daenerys Targaryen</character_name>
+    <character_link>/character/ch0158597/</character_link>
+    <character_image_thumb>https://images-na.ssl-images-amazon.com/images/M/MV5BMjA4MzIxMTQwMF5BMl5BanBnXkFtZTcwMzY2NDg1Nw@@._V1._SX100_SY140_.jpg</character_image_thumb>
+    <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BMjA4MzIxMTQwMF5BMl5BanBnXkFtZTcwMzY2NDg1Nw@@._V1_SY1000_CR0,0,810,1000_AL_.jpg</character_image_full>
+    <actor_name>Emilia Clarke</actor_name>
+    <actor_link>/name/nm3592338/</actor_link>
+    <houses>
+        <house_name>Targaryen</house_name>
+    </houses>
+    <royal>true</royal>
+    <parents>
+        <name>Aerys II Targaryen</name>
+        <name>Rhaella Targaryen</name>
+    </parents>
+    <parent_of>
+        <name>Rhaego</name>
+    </parent_of>
+    <guarded_by>
+        <name>Drogon</name>
+        <name>Rhaegal</name>
+        <name>Viserion</name>
+    </guarded_by>
+    <siblings>
+        <name>Rhaegar Targaryen</name>
+        <name>Viserys Targaryen</name>
+    </siblings>
+    <married_engaged>
+        <name>Khal Drogo</name>
+    </married_engaged>
+    <killed>
+        <name>Khal Drogo</name>
+        <name>Mirri Maz Duur</name>
+        <name>Doreah</name>
+        <name>Xaro Xhoan Daxos</name>
+        <name>Khal Rhalko</name>
+        <name>Khal Brozho</name>
+        <name>Khal Qorro</name>
+        <name>Khal Forzho</name>
+        <name>Khal Moro</name>
+        <name>Dothraki Bloodrider #1</name>
+        <name>Dothraki Bloodrider #2</name>
+        <name>Randyll Tarly</name>
+        <name>Dickon Tarly</name>
+        <name>Eleanor</name>
+        <name>Eleanor's Daughter</name>
+        <name>Lord Varys</name>
+    </killed>
+    <killed_by>
+        <name>Jon Snow</name>
+    </killed_by>
+    <served_by>
+        <name>Barristan Selmy</name>
+        <name>Daario Naharis</name>
+        <name>Grey Worm</name>
+        <name>Jorah Mormont</name>
+        <name>Missandei</name>
+        <name>Tyrion Lannister</name>
+    </served_by>
+</character>

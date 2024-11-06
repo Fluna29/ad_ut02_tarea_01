@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Grey Wind</character_name>
+    <houses>
+        <house_name>Stark</house_name>
+    </houses>
+    <guardian_of>
+        <name>Robb Stark</name>
+    </guardian_of>
+    <siblings>
+        <name>Lady</name>
+        <name>Nymeria</name>
+        <name>Summer</name>
+        <name>Shaggydog</name>
+        <name>Ghost</name>
+    </siblings>
+    <killed>
+        <name>Rennick</name>
+    </killed>
+    <killed_by>
+        <name>Frey Crossbowmen</name>
+    </killed_by>
+</character>

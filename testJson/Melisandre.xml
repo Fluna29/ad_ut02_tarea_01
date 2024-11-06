@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Melisandre</character_name>
+    <character_link>/character/ch0287523/</character_link>
+    <character_image_thumb>https://images-na.ssl-images-amazon.com/images/M/MV5BMTk0MjI5NjQ2OV5BMl5BanBnXkFtZTcwODI4NDk4OQ@@._V1._SX100_SY140_.jpg</character_image_thumb>
+    <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BMTk0MjI5NjQ2OV5BMl5BanBnXkFtZTcwODI4NDk4OQ@@._V1_.jpg</character_image_full>
+    <actor_name>Carice van Houten</actor_name>
+    <actor_link>/name/nm0396924/</actor_link>
+    <killed>
+        <name>Renly Baratheon</name>
+        <name>Axell Florent</name>
+        <name>Mance Rayder</name>
+        <name>Shireen Baratheon</name>
+    </killed>
+    <killed_by>
+        <name>Old Age</name>
+    </killed_by>
+</character>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Catelyn Stark</character_name>
+    <character_link>/character/ch0145135/</character_link>
+    <character_image_thumb>https://images-na.ssl-images-amazon.com/images/M/MV5BMTY2ODc4MTkxMV5BMl5BanBnXkFtZTcwNjM3MTg4OQ@@._V1._SX100_SY140_.jpg</character_image_thumb>
+    <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BMTY2ODc4MTkxMV5BMl5BanBnXkFtZTcwNjM3MTg4OQ@@._V1_SY1000_CR0,0,915,1000_AL_.jpg</character_image_full>
+    <actor_name>Michelle Fairley</actor_name>
+    <actor_link>/name/nm0265610/</actor_link>
+    <houses>
+        <house_name>Stark</house_name>
+        <house_name>Tully</house_name>
+    </houses>
+    <parents>
+        <name>Hoster Tully</name>
+    </parents>
+    <parent_of>
+        <name>Robb Stark</name>
+        <name>Sansa Stark</name>
+        <name>Arya Stark</name>
+        <name>Bran Stark</name>
+        <name>Rickon Stark</name>
+    </parent_of>
+    <siblings>
+        <name>Lysa Arryn</name>
+        <name>Edmure Tully</name>
+    </siblings>
+    <married_engaged>
+        <name>Eddard Stark</name>
+        <name>Brandon Stark</name>
+    </married_engaged>
+    <killed>
+        <name>Joyeuse Erenford</name>
+    </killed>
+    <killed_by>
+        <name>Black Walder Rivers</name>
+    </killed_by>
+</character>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Jon Snow</character_name>
+    <character_link>/character/ch0155777/</character_link>
+    <character_image_thumb>https://images-na.ssl-images-amazon.com/images/M/MV5BMTkwMjUxMDk2OV5BMl5BanBnXkFtZTcwMzg3MTg4OQ@@._V1._SX100_SY140_.jpg</character_image_thumb>
+    <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BMTkwMjUxMDk2OV5BMl5BanBnXkFtZTcwMzg3MTg4OQ@@._V1_.jpg</character_image_full>
+    <actor_name>Kit Harington</actor_name>
+    <actor_link>/name/nm3229685/</actor_link>
+    <houses>
+        <house_name>Stark</house_name>
+        <house_name>Targaryen</house_name>
+    </houses>
+    <royal>true</royal>
+    <parents>
+        <name>Rhaegar Targaryen</name>
+        <name>Lyanna Stark</name>
+    </parents>
+    <guarded_by>
+        <name>Eddard Stark</name>
+        <name>Ghost</name>
+    </guarded_by>
+    <married_engaged>
+        <name>Ygritte</name>
+    </married_engaged>
+    <killed>
+        <name>Othor</name>
+        <name>Qhorin Halfhand</name>
+        <name>Orell</name>
+        <name>Karl Tanner</name>
+        <name>Styr</name>
+        <name>Mance Rayder</name>
+        <name>Janos Slynt</name>
+        <name>White Walker</name>
+        <name>Alliser Thorne</name>
+        <name>Othell Yarwyck</name>
+        <name>Bowen Marsh</name>
+        <name>Olly</name>
+        <name>Lyanna Stark</name>
+        <name>Daenerys Targaryen</name>
+    </killed>
+    <killed_by>
+        <name>Alliser Thorne</name>
+        <name>Othell Yarwyck</name>
+        <name>Bowen Marsh</name>
+        <name>Olly</name>
+    </killed_by>
+</character>

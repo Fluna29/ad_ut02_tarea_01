@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Dickon Tarly</character_name>
+    <character_link>/character/ch0541363/</character_link>
+    <character_image_thumb>https://images-na.ssl-images-amazon.com/images/M/MV5BNzk1YjNlZGQtNTU0MC00OGZmLThhYTQtZDM1ZjI2OGNlZGQxXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1._SX100_SY140_.jpg</character_image_thumb>
+    <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BNzk1YjNlZGQtNTU0MC00OGZmLThhYTQtZDM1ZjI2OGNlZGQxXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg</character_image_full>
+    <actors>
+        <actor>
+            <actor_name>Freddie Stroma</actor_name>
+            <actor_link>/name/nm2238815/</actor_link>
+            <seasons_active>
+                <season>6</season>
+            </seasons_active>
+        </actor>
+        <actor>
+            <actor_name>Tom Hopper</actor_name>
+            <actor_link>/name/nm2584392/</actor_link>
+            <seasons_active>
+                <season>7</season>
+            </seasons_active>
+        </actor>
+    </actors>
+    <parents>
+        <name>Randyll Tarly</name>
+        <name>Melessa Tarly</name>
+    </parents>
+    <siblings>
+        <name>Samwell Tarly</name>
+        <name>Talla Tarly</name>
+    </siblings>
+    <killed_by>
+        <name>Daenerys Targaryen</name>
+    </killed_by>
+</character>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Lothar Frey</character_name>
+    <character_link>/character/ch0384471/</character_link>
+    <character_image_thumb>https://images-na.ssl-images-amazon.com/images/M/MV5BMDc0NDA3YmYtZTNjYi00ZDExLWE2NTUtNzk5NjI3MGI3NzM0XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1._SX100_SY140_.jpg</character_image_thumb>
+    <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BMDc0NDA3YmYtZTNjYi00ZDExLWE2NTUtNzk5NjI3MGI3NzM0XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg</character_image_full>
+    <actors>
+        <actor>
+            <actor_name>Daniel Tuite</actor_name>
+            <actor_link>/name/nm1264590/</actor_link>
+            <seasons_active>
+                <season>6</season>
+            </seasons_active>
+        </actor>
+        <actor>
+            <actor_name>Tom Brooke</actor_name>
+            <actor_link>/name/nm1623508/</actor_link>
+            <seasons_active>
+                <season>3</season>
+            </seasons_active>
+        </actor>
+    </actors>
+    <houses>
+        <house_name>Frey</house_name>
+    </houses>
+    <parents>
+        <name>Walder Frey</name>
+    </parents>
+    <killed>
+        <name>Talisa Maegyr</name>
+    </killed>
+    <killed_by>
+        <name>Arya Stark</name>
+    </killed_by>
+</character>

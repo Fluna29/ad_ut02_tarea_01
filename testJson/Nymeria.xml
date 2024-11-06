@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Nymeria</character_name>
+    <houses>
+        <house_name>Stark</house_name>
+    </houses>
+    <guardian_of>
+        <name>Arya Stark</name>
+    </guardian_of>
+    <siblings>
+        <name>Grey Wind</name>
+        <name>Lady</name>
+        <name>Summer</name>
+        <name>Shaggydog</name>
+        <name>Ghost</name>
+    </siblings>
+</character>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Petyr Baelish</character_name>
+    <character_link>/character/ch0245982/</character_link>
+    <character_image_thumb>https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ1MjE3OTc3M15BMl5BanBnXkFtZTcwODgzODg4OQ@@._V1._SX100_SY140_.jpg</character_image_thumb>
+    <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ1MjE3OTc3M15BMl5BanBnXkFtZTcwODgzODg4OQ@@._V1_.jpg</character_image_full>
+    <actor_name>Aidan Gillen</actor_name>
+    <actor_link>/name/nm0318821/</actor_link>
+    <nickname>Littlefinger</nickname>
+    <married_engaged>
+        <name>Lysa Arryn</name>
+    </married_engaged>
+    <killed>
+        <name>Joffrey Baratheon</name>
+        <name>Dontos Hollard</name>
+        <name>Lysa Arryn</name>
+    </killed>
+    <killed_by>
+        <name>Arya Stark</name>
+    </killed_by>
+</character>

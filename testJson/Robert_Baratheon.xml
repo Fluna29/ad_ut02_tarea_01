@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Robert Baratheon</character_name>
+    <character_link>/character/ch0155776/</character_link>
+    <character_image_thumb>https://images-na.ssl-images-amazon.com/images/M/MV5BMzQwMDcwNzY5MF5BMl5BanBnXkFtZTcwMzIyMTE5OQ@@._V1._SX100_SY140_.jpg</character_image_thumb>
+    <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BMzQwMDcwNzY5MF5BMl5BanBnXkFtZTcwMzIyMTE5OQ@@._V1_.jpg</character_image_full>
+    <actor_name>Mark Addy</actor_name>
+    <actor_link>/name/nm0004692/</actor_link>
+    <houses>
+        <house_name>Baratheon</house_name>
+    </houses>
+    <royal>true</royal>
+    <parent_of>
+        <name>Joffrey Baratheon</name>
+        <name>Myrcella Baratheon</name>
+        <name>Tommen Baratheon</name>
+    </parent_of>
+    <guarded_by>
+        <name>Jon Arryn</name>
+    </guarded_by>
+    <siblings>
+        <name>Stannis Baratheon</name>
+        <name>Renly Baratheon</name>
+    </siblings>
+    <married_engaged>
+        <name>Lyanna Stark</name>
+        <name>Cersei Lannister</name>
+    </married_engaged>
+    <allies>
+        <name>Jon Arryn</name>
+        <name>Eddard Stark</name>
+        <name>Tywin Lannister</name>
+    </allies>
+    <killed>
+        <name>Rhaegar Targaryen</name>
+    </killed>
+    <killed_by>
+        <name>Boar</name>
+    </killed_by>
+</character>

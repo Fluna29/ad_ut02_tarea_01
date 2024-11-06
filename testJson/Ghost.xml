@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Ghost</character_name>
+    <houses>
+        <house_name>Stark</house_name>
+    </houses>
+    <guardian_of>
+        <name>Jon Snow</name>
+    </guardian_of>
+    <siblings>
+        <name>Grey Wind</name>
+        <name>Lady</name>
+        <name>Nymeria</name>
+        <name>Summer</name>
+        <name>Shaggydog</name>
+    </siblings>
+    <killed>
+        <name>Rast</name>
+    </killed>
+</character>

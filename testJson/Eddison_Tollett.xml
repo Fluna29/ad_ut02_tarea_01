@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Eddison Tollett</character_name>
+    <character_link>/character/ch0305008/</character_link>
+    <character_image_thumb>https://images-na.ssl-images-amazon.com/images/M/MV5BMTY1MjQ4ODAwNV5BMl5BanBnXkFtZTcwMTc5NDk4OQ@@._V1._SX100_SY140_.jpg</character_image_thumb>
+    <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BMTY1MjQ4ODAwNV5BMl5BanBnXkFtZTcwMTc5NDk4OQ@@._V1_.jpg</character_image_full>
+    <actor_name>Ben Crompton</actor_name>
+    <actor_link>/name/nm0174005/</actor_link>
+    <killed_by>
+        <name>Wight</name>
+    </killed_by>
+</character>

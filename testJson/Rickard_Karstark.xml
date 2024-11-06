@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Rickard Karstark</character_name>
+    <character_link>/character/ch0305331/</character_link>
+    <character_image_thumb>https://images-na.ssl-images-amazon.com/images/M/MV5BM2IwZThkNjQtYzU2NS00ZTRiLWFjNDUtNTdmMGQ2ZmE5M2NmXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1._SX100_SY140_.jpg</character_image_thumb>
+    <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BM2IwZThkNjQtYzU2NS00ZTRiLWFjNDUtNTdmMGQ2ZmE5M2NmXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg</character_image_full>
+    <actors>
+        <actor>
+            <actor_name>John Stahl</actor_name>
+            <actor_link>/name/nm0821471/</actor_link>
+            <seasons_active>
+                <season>2</season>
+                <season>3</season>
+            </seasons_active>
+        </actor>
+        <actor>
+            <actor_name>Steve Blount</actor_name>
+            <actor_link>/name/nm0089416/</actor_link>
+            <seasons_active>
+                <season>1</season>
+            </seasons_active>
+        </actor>
+    </actors>
+    <parent_of>
+        <name>Harald Karstark</name>
+    </parent_of>
+    <killed>
+        <name>Martyn Lannister</name>
+        <name>Willem Lannister</name>
+    </killed>
+    <killed_by>
+        <name>Robb Stark</name>
+    </killed_by>
+</character>

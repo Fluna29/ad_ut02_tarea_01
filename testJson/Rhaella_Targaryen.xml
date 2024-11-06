@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Rhaella Targaryen</character_name>
+    <houses>
+        <house_name>Targaryen</house_name>
+    </houses>
+    <royal>true</royal>
+    <parent_of>
+        <name>Daenerys Targaryen</name>
+        <name>Rhaegar Targaryen</name>
+        <name>Viserys Targaryen</name>
+    </parent_of>
+    <siblings>
+        <name>Aerys II Targaryen</name>
+    </siblings>
+    <married_engaged>
+        <name>Aerys II Targaryen</name>
+    </married_engaged>
+</character>

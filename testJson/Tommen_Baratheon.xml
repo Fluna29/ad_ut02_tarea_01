@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Tommen Baratheon</character_name>
+    <character_link>/character/ch0256424/</character_link>
+    <character_image_thumb>https://images-na.ssl-images-amazon.com/images/M/MV5BOTY1YWUxM2QtZjhmZC00ZmQ2LThkM2YtNTk2MmQ5OTk3NGMyXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1._SX100_SY140_.jpg</character_image_thumb>
+    <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BOTY1YWUxM2QtZjhmZC00ZmQ2LThkM2YtNTk2MmQ5OTk3NGMyXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg</character_image_full>
+    <actors>
+        <actor>
+            <actor_name>Callum Wharry</actor_name>
+            <actor_link>/name/nm4422626/</actor_link>
+            <seasons_active>
+                <season>1</season>
+                <season>2</season>
+            </seasons_active>
+        </actor>
+        <actor>
+            <actor_name>Dean-Charles Chapman</actor_name>
+            <actor_link>/name/nm2835616/</actor_link>
+            <seasons_active>
+                <season>4</season>
+                <season>5</season>
+                <season>6</season>
+            </seasons_active>
+        </actor>
+    </actors>
+    <houses>
+        <house_name>Baratheon</house_name>
+    </houses>
+    <royal>true</royal>
+    <parents>
+        <name>Robert Baratheon</name>
+        <name>Cersei Lannister</name>
+        <name>Jaime Lannister</name>
+    </parents>
+    <siblings>
+        <name>Joffrey Baratheon</name>
+        <name>Myrcella Baratheon</name>
+    </siblings>
+    <married_engaged>
+        <name>Margaery Tyrell</name>
+    </married_engaged>
+    <killed>
+        <name>Tommen Baratheon</name>
+    </killed>
+    <killed_by>
+        <name>Tommen Baratheon</name>
+    </killed_by>
+</character>

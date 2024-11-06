@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Eddard Stark</character_name>
+    <character_link>/character/ch0154681/</character_link>
+    <character_image_thumb>https://images-na.ssl-images-amazon.com/images/M/MV5BODcwMjg0MDQ5MF5BMl5BanBnXkFtZTcwMTk2NDk4OQ@@._V1._SX100_SY140_.jpg</character_image_thumb>
+    <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BODcwMjg0MDQ5MF5BMl5BanBnXkFtZTcwMTk2NDk4OQ@@._V1_SY1000_CR0,0,827,1000_AL_.jpg</character_image_full>
+    <actor_name>Sean Bean</actor_name>
+    <actor_link>/name/nm0000293/</actor_link>
+    <houses>
+        <house_name>Stark</house_name>
+    </houses>
+    <nickname>Ned</nickname>
+    <parents>
+        <name>Rickard Stark</name>
+    </parents>
+    <parent_of>
+        <name>Robb Stark</name>
+        <name>Sansa Stark</name>
+        <name>Arya Stark</name>
+        <name>Bran Stark</name>
+        <name>Rickon Stark</name>
+    </parent_of>
+    <guardian_of>
+        <name>Jon Snow</name>
+    </guardian_of>
+    <guarded_by>
+        <name>Jon Arryn</name>
+    </guarded_by>
+    <siblings>
+        <name>Brandon Stark</name>
+        <name>Benjen Stark</name>
+        <name>Lyanna Stark</name>
+    </siblings>
+    <married_engaged>
+        <name>Catelyn Stark</name>
+    </married_engaged>
+    <allies>
+        <name>Howland Reed</name>
+        <name>Robert Baratheon</name>
+    </allies>
+    <killed>
+        <name>Arthur Dayne</name>
+        <name>Will</name>
+        <name>Lady</name>
+        <name>Gerold Hightower</name>
+    </killed>
+    <killed_by>
+        <name>Ilyn Payne</name>
+    </killed_by>
+</character>

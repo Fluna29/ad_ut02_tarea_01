@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Janos Slynt</character_name>
+    <character_link>/character/ch0300651/</character_link>
+    <character_image_thumb>https://images-na.ssl-images-amazon.com/images/M/MV5BNGUwMzllZGEtZjdkZi00NTgwLTgxY2UtODFhZjZlZDNmN2ZkXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_SY100_SX100_AL_.jpg</character_image_thumb>
+    <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BNGUwMzllZGEtZjdkZi00NTgwLTgxY2UtODFhZjZlZDNmN2ZkXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg</character_image_full>
+    <actor_name>Dominic Carter</actor_name>
+    <actor_link>/name/nm0141582/</actor_link>
+    <killed>
+        <name>Barra</name>
+    </killed>
+    <killed_by>
+        <name>Jon Snow</name>
+    </killed_by>
+</character>

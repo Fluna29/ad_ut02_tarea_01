@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Locke</character_name>
+    <character_link>/character/ch0045904/</character_link>
+    <character_image_thumb>https://images-na.ssl-images-amazon.com/images/M/MV5BOTg1MDM2ODE0MF5BMl5BanBnXkFtZTcwNzM4MzA0OQ@@._V1._SX100_SY140_.jpg</character_image_thumb>
+    <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BOTg1MDM2ODE0MF5BMl5BanBnXkFtZTcwNzM4MzA0OQ@@._V1_SY1000_CR0,0,665,1000_AL_.jpg</character_image_full>
+    <actor_name>Noah Taylor</actor_name>
+    <actor_link>/name/nm0852965/</actor_link>
+    <killed_by>
+        <name>Hodor</name>
+    </killed_by>
+</character>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Olly</character_name>
+    <character_link>/character/ch0508055/</character_link>
+    <character_image_thumb>https://images-na.ssl-images-amazon.com/images/M/MV5BOWFiYTRlMzMtMmQzZC00Y2UxLTgzMzAtZGEzOTlkMGRiODBkXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1._SX100_SY140_.jpg</character_image_thumb>
+    <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BOWFiYTRlMzMtMmQzZC00Y2UxLTgzMzAtZGEzOTlkMGRiODBkXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg</character_image_full>
+    <actor_name>Brenock O'Connor</actor_name>
+    <actor_link>/name/nm5282143/</actor_link>
+    <killed>
+        <name>Ygritte</name>
+        <name>Jon Snow</name>
+    </killed>
+    <killed_by>
+        <name>Jon Snow</name>
+    </killed_by>
+</character>

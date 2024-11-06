@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Selyse Baratheon</character_name>
+    <character_link>/character/ch0316924/</character_link>
+    <character_image_thumb>https://images-na.ssl-images-amazon.com/images/M/MV5BZGZjNDA5YWUtZjE5OC00NGE2LWI3Y2UtOTQ1Yjg1MDc3MTk4L2ltYWdlXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1._SX100_SY140_.jpg</character_image_thumb>
+    <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BZGZjNDA5YWUtZjE5OC00NGE2LWI3Y2UtOTQ1Yjg1MDc3MTk4L2ltYWdlXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg</character_image_full>
+    <actors>
+        <actor>
+            <actor_name>Tara Fitzgerald</actor_name>
+            <actor_link>/name/nm0001216/</actor_link>
+            <seasons_active>
+                <season>3</season>
+                <season>4</season>
+                <season>5</season>
+            </seasons_active>
+        </actor>
+        <actor>
+            <actor_name>Sarah MacKeever</actor_name>
+            <actor_link>/name/nm5223922/</actor_link>
+            <seasons_active>
+                <season>2</season>
+            </seasons_active>
+        </actor>
+    </actors>
+    <houses>
+        <house_name>Baratheon</house_name>
+    </houses>
+    <parent_of>
+        <name>Shireen Baratheon</name>
+    </parent_of>
+    <married_engaged>
+        <name>Stannis Baratheon</name>
+    </married_engaged>
+    <killed>
+        <name>Selyse Baratheon</name>
+    </killed>
+    <killed_by>
+        <name>Selyse Baratheon</name>
+    </killed_by>
+</character>

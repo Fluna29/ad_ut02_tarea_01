@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Ned Umber</character_name>
+    <character_link>/title/tt0944947/characters/nm9132255</character_link>
+    <actor_name>Harry Grasby</actor_name>
+    <actor_link>/name/nm9132255/</actor_link>
+    <houses>
+        <house_name>Umber</house_name>
+    </houses>
+    <killed_by>
+        <name>The Night King</name>
+    </killed_by>
+</character>

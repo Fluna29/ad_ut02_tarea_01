@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Mago</character_name>
+    <character_link>/character/ch0379227/</character_link>
+    <character_image_thumb>https://images-na.ssl-images-amazon.com/images/M/MV5BNjdmM2ZlMTQtOGRlMy00NzAyLWE0MWYtM2JiMjNlNjA3MDU2XkEyXkFqcGdeQXVyMjg2MTMyNTM@._V1._SX100_SY140_.jpg</character_image_thumb>
+    <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BNjdmM2ZlMTQtOGRlMy00NzAyLWE0MWYtM2JiMjNlNjA3MDU2XkEyXkFqcGdeQXVyMjg2MTMyNTM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</character_image_full>
+    <actor_name>Ivailo Dimitrov</actor_name>
+    <actor_link>/name/nm2162079/</actor_link>
+    <killed_by>
+        <name>Khal Drogo</name>
+    </killed_by>
+</character>

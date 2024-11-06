@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Arya Stark</character_name>
+    <character_link>/character/ch0158604/</character_link>
+    <character_image_thumb>https://images-na.ssl-images-amazon.com/images/M/MV5BMTk5MTYwNDc0OF5BMl5BanBnXkFtZTcwOTg2NDg1Nw@@._V1._SX100_SY140_.jpg</character_image_thumb>
+    <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BMTk5MTYwNDc0OF5BMl5BanBnXkFtZTcwOTg2NDg1Nw@@._V1_SY1000_CR0,0,665,1000_AL_.jpg</character_image_full>
+    <actor_name>Maisie Williams</actor_name>
+    <actor_link>/name/nm3586035/</actor_link>
+    <houses>
+        <house_name>Stark</house_name>
+    </houses>
+    <parents>
+        <name>Eddard Stark</name>
+        <name>Catelyn Stark</name>
+    </parents>
+    <guarded_by>
+        <name>Nymeria</name>
+    </guarded_by>
+    <siblings>
+        <name>Robb Stark</name>
+        <name>Sansa Stark</name>
+        <name>Bran Stark</name>
+        <name>Rickon Stark</name>
+    </siblings>
+    <killed>
+        <name>Red Keep Stableboy</name>
+        <name>Frey Soldier #1</name>
+        <name>Polliver</name>
+        <name>Rorge</name>
+        <name>Ghita</name>
+        <name>Meryn Trant</name>
+        <name>The Waif</name>
+        <name>Black Walder Rivers</name>
+        <name>Lothar Frey</name>
+        <name>Walder Frey</name>
+        <name>Petyr Baelish</name>
+        <name>The Night King</name>
+        <name>White Walker</name>
+        <name>Viserion</name>
+    </killed>
+</character>

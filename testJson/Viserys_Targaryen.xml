@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Viserys Targaryen</character_name>
+    <character_link>/character/ch0155775/</character_link>
+    <character_image_thumb>https://images-na.ssl-images-amazon.com/images/M/MV5BMTgwNzIxMTU1OV5BMl5BanBnXkFtZTcwNzI2ODg5NA@@._V1._SX100_SY140_.jpg</character_image_thumb>
+    <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BMTgwNzIxMTU1OV5BMl5BanBnXkFtZTcwNzI2ODg5NA@@._V1_SY1000_CR0,0,1503,1000_AL_.jpg</character_image_full>
+    <actor_name>Harry Lloyd</actor_name>
+    <actor_link>/name/nm0516003/</actor_link>
+    <houses>
+        <house_name>Targaryen</house_name>
+    </houses>
+    <royal>true</royal>
+    <parents>
+        <name>Rhaella Targaryen</name>
+        <name>Aerys II Targaryen</name>
+    </parents>
+    <siblings>
+        <name>Daenerys Targaryen</name>
+        <name>Rhaegar Targaryen</name>
+    </siblings>
+    <killed_by>
+        <name>Khal Drogo</name>
+    </killed_by>
+</character>

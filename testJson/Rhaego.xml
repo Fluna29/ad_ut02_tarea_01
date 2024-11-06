@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Rhaego</character_name>
+    <parents>
+        <name>Khal Drogo</name>
+        <name>Daenerys Targaryen</name>
+    </parents>
+    <killed_by>
+        <name>Mirri Maz Duur</name>
+    </killed_by>
+</character>

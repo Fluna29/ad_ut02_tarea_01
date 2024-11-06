@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Ellaria Sand</character_name>
+    <character_link>/character/ch0309687/</character_link>
+    <character_image_thumb>https://images-na.ssl-images-amazon.com/images/M/MV5BNWQ0ZDE5NDUtNDVmZi00ZTI5LTkyOTgtNDhiNjMwZjY3ZjgwXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1._SX100_SY140_.jpg</character_image_thumb>
+    <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BNWQ0ZDE5NDUtNDVmZi00ZTI5LTkyOTgtNDhiNjMwZjY3ZjgwXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg</character_image_full>
+    <actor_name>Indira Varma</actor_name>
+    <actor_link>/name/nm0890055/</actor_link>
+    <houses>
+        <house_name>Martell</house_name>
+    </houses>
+    <parent_of>
+        <name>Tyene Sand</name>
+    </parent_of>
+    <married_engaged>
+        <name>Oberyn Martell</name>
+    </married_engaged>
+    <killed>
+        <name>Myrcella Baratheon</name>
+        <name>Doran Martell</name>
+    </killed>
+</character>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Sandor Clegane</character_name>
+    <character_link>/character/ch0162882/</character_link>
+    <character_image_thumb>https://images-na.ssl-images-amazon.com/images/M/MV5BMTQwMjEwNDQ1MF5BMl5BanBnXkFtZTcwMzAxODg4OQ@@._V1._SX100_SY140_.jpg</character_image_thumb>
+    <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BMTQwMjEwNDQ1MF5BMl5BanBnXkFtZTcwMzAxODg4OQ@@._V1_.jpg</character_image_full>
+    <actor_name>Rory McCann</actor_name>
+    <actor_link>/name/nm0564920/</actor_link>
+    <nickname>The Hound</nickname>
+    <siblings>
+        <name>Gregor Clegane</name>
+    </siblings>
+    <killed>
+        <name>Mycah</name>
+        <name>Kings Landing Rioter #1</name>
+        <name>Kings Landing Rioter #2</name>
+        <name>Kings Landing Rioter #3</name>
+        <name>Beric Dondarrion</name>
+        <name>Frey Soldier #2</name>
+        <name>Lowell</name>
+        <name>Dying Man</name>
+        <name>Biter</name>
+        <name>Steve</name>
+        <name>Riddell</name>
+        <name>Gatins</name>
+        <name>Morgan</name>
+        <name>Lem Lemoncloak</name>
+        <name>Gregor Clegane</name>
+        <name>Sandor Clegane</name>
+    </killed>
+    <killed_by>
+        <name>Sandor Clegane</name>
+    </killed_by>
+</character>

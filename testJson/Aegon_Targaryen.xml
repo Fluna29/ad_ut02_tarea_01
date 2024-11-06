@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Aegon Targaryen</character_name>
+    <houses>
+        <house_name>Targaryen</house_name>
+    </houses>
+    <royal>true</royal>
+    <parents>
+        <name>Elia Martell</name>
+        <name>Rhaegar Targaryen</name>
+    </parents>
+    <siblings>
+        <name>Rhaenys Targaryen</name>
+        <name>Jon Snow</name>
+    </siblings>
+    <killed_by>
+        <name>Gregor Clegane</name>
+    </killed_by>
+</character>

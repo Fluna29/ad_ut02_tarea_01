@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Lyanna Stark</character_name>
+    <character_link>/character/ch0543804/</character_link>
+    <character_image_thumb>https://images-na.ssl-images-amazon.com/images/M/MV5BMTE5NTczY2QtNmQxYS00NTAwLWE2ZTAtYzc1MTkyZGU5MzRkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1._SX100_SY140_.jpg</character_image_thumb>
+    <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BMTE5NTczY2QtNmQxYS00NTAwLWE2ZTAtYzc1MTkyZGU5MzRkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg</character_image_full>
+    <actor_name>Aisling Franciosi</actor_name>
+    <actor_link>/name/nm4957233/</actor_link>
+    <houses>
+        <house_name>Stark</house_name>
+    </houses>
+    <parents>
+        <name>Rickard Stark</name>
+    </parents>
+    <parent_of>
+        <name>Jon Snow</name>
+    </parent_of>
+    <siblings>
+        <name>Brandon Stark</name>
+        <name>Benjen Stark</name>
+        <name>Eddard Stark</name>
+    </siblings>
+    <married_engaged>
+        <name>Robert Baratheon</name>
+        <name>Rhaegar Targaryen</name>
+    </married_engaged>
+    <killed_by>
+        <name>Jon Snow</name>
+    </killed_by>
+</character>

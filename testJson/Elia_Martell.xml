@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Elia Martell</character_name>
+    <houses>
+        <house_name>Martell</house_name>
+    </houses>
+    <royal>true</royal>
+    <parent_of>
+        <name>Rhaenys Targaryen</name>
+        <name>Aegon Targaryen</name>
+    </parent_of>
+    <siblings>
+        <name>Doran Martell</name>
+        <name>Oberyn Martell</name>
+    </siblings>
+    <married_engaged>
+        <name>Rhaegar Targaryen</name>
+    </married_engaged>
+    <killed_by>
+        <name>Gregor Clegane</name>
+    </killed_by>
+</character>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Kegs</character_name>
+    <character_link>/character/ch0305327/</character_link>
+    <actor_name>Tim Landers</actor_name>
+    <actor_link>/name/nm2461009/</actor_link>
+    <killed_by>
+        <name>Wildling</name>
+    </killed_by>
+</character>

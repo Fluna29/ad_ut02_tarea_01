@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Khal Drogo</character_name>
+    <character_link>/character/ch0171388/</character_link>
+    <character_image_thumb>https://images-na.ssl-images-amazon.com/images/M/MV5BMTQzMTE2MjczM15BMl5BanBnXkFtZTcwMDA5NDk4OQ@@._V1._SX100_SY140_.jpg</character_image_thumb>
+    <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BMTQzMTE2MjczM15BMl5BanBnXkFtZTcwMDA5NDk4OQ@@._V1_.jpg</character_image_full>
+    <actor_name>Jason Momoa</actor_name>
+    <actor_link>/name/nm0597388/</actor_link>
+    <parent_of>
+        <name>Rhaego</name>
+    </parent_of>
+    <married_engaged>
+        <name>Daenerys Targaryen</name>
+    </married_engaged>
+    <killed>
+        <name>Viserys Targaryen</name>
+        <name>Mago</name>
+    </killed>
+    <killed_by>
+        <name>Daenerys Targaryen</name>
+    </killed_by>
+</character>

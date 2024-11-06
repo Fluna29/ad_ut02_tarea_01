@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Stannis Baratheon</character_name>
+    <character_link>/character/ch0250897/</character_link>
+    <character_image_thumb>https://images-na.ssl-images-amazon.com/images/M/MV5BMjExNzY0NzI0NF5BMl5BanBnXkFtZTcwNjA2NDk4OQ@@._V1._SX100_SY140_.jpg</character_image_thumb>
+    <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BMjExNzY0NzI0NF5BMl5BanBnXkFtZTcwNjA2NDk4OQ@@._V1_.jpg</character_image_full>
+    <actor_name>Stephen Dillane</actor_name>
+    <actor_link>/name/nm0226820/</actor_link>
+    <houses>
+        <house_name>Baratheon</house_name>
+    </houses>
+    <parent_of>
+        <name>Shireen Baratheon</name>
+    </parent_of>
+    <siblings>
+        <name>Robert Baratheon</name>
+        <name>Renly Baratheon</name>
+    </siblings>
+    <married_engaged>
+        <name>Selyse Baratheon</name>
+    </married_engaged>
+    <killed>
+        <name>Gordy</name>
+        <name>Simpson</name>
+    </killed>
+    <killed_by>
+        <name>Brienne of Tarth</name>
+    </killed_by>
+</character>

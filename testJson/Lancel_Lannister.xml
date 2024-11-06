@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Lancel Lannister</character_name>
+    <character_link>/character/ch0376927/</character_link>
+    <character_image_thumb>https://images-na.ssl-images-amazon.com/images/M/MV5BMjI0MTQ5MzEzNV5BMl5BanBnXkFtZTgwNTQ4MDA2NTE@._V1._SX100_SY140_.jpg</character_image_thumb>
+    <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BMjI0MTQ5MzEzNV5BMl5BanBnXkFtZTgwNTQ4MDA2NTE@._V1_SY1000_CR0,0,1503,1000_AL_.jpg</character_image_full>
+    <actor_name>Eugene Simon</actor_name>
+    <actor_link>/name/nm1638294/</actor_link>
+    <houses>
+        <house_name>Lannister</house_name>
+    </houses>
+    <parents>
+        <name>Kevan Lannister</name>
+    </parents>
+    <siblings>
+        <name>Martyn Lannister</name>
+        <name>Willem Lannister</name>
+    </siblings>
+    <killed_by>
+        <name>Cersei Lannister</name>
+    </killed_by>
+</character>

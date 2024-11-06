@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Jaime Lannister</character_name>
+    <character_link>/character/ch0158527/</character_link>
+    <character_image_thumb>https://images-na.ssl-images-amazon.com/images/M/MV5BMjIzMzU1NjM1MF5BMl5BanBnXkFtZTcwMzIxODg4OQ@@._V1._SX100_SY140_.jpg</character_image_thumb>
+    <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BMjIzMzU1NjM1MF5BMl5BanBnXkFtZTcwMzIxODg4OQ@@._V1_.jpg</character_image_full>
+    <actor_name>Nikolaj Coster-Waldau</actor_name>
+    <actor_link>/name/nm0182666/</actor_link>
+    <houses>
+        <house_name>Lannister</house_name>
+    </houses>
+    <nickname>The Kingslayer</nickname>
+    <kingsguard>true</kingsguard>
+    <parents>
+        <name>Tywin Lannister</name>
+    </parents>
+    <parent_of>
+        <name>Joffrey Baratheon</name>
+        <name>Myrcella Baratheon</name>
+        <name>Tommen Baratheon</name>
+    </parent_of>
+    <guardian_of>
+        <name>Aerys II Targaryen</name>
+        <name>Robert Baratheon</name>
+        <name>Joffrey Baratheon</name>
+    </guardian_of>
+    <siblings>
+        <name>Cersei Lannister</name>
+        <name>Tyrion Lannister</name>
+    </siblings>
+    <killed>
+        <name>Aerys II Targaryen</name>
+        <name>Jory Cassel</name>
+        <name>Alton Lannister</name>
+        <name>Torrhen Karstark</name>
+        <name>Olenna Tyrell</name>
+        <name>Euron Greyjoy</name>
+    </killed>
+    <killed_by>
+        <name>Roof collapse</name>
+    </killed_by>
+</character>

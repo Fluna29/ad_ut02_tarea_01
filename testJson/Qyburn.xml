@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Qyburn</character_name>
+    <character_link>/character/ch0316929/</character_link>
+    <character_image_thumb>https://images-na.ssl-images-amazon.com/images/M/MV5BZGEzNDY2YjktMDM1ZS00MTI1LWEyYmMtNTdiMzczNmY4ZWEzXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1._SX100_SY140_.jpg</character_image_thumb>
+    <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BZGEzNDY2YjktMDM1ZS00MTI1LWEyYmMtNTdiMzczNmY4ZWEzXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg</character_image_full>
+    <actor_name>Anton Lesser</actor_name>
+    <actor_link>/name/nm0504320/</actor_link>
+    <killed_by>
+        <name>Gregor Clegane</name>
+    </killed_by>
+    <serves>
+        <name>Cersei Lannister</name>
+    </serves>
+</character>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Trystane Martell</character_name>
+    <character_link>/character/ch0506400/</character_link>
+    <character_image_thumb>https://m.media-amazon.com/images/M/MV5BODkzNjY0NTA0MV5BMl5BanBnXkFtZTgwNjc1NDE3NTE@._V1_SX100_CR0,0,100,100_AL_.jpg</character_image_thumb>
+    <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BODkzNjY0NTA0MV5BMl5BanBnXkFtZTgwNjc1NDE3NTE@._V1_.jpg</character_image_full>
+    <actor_name>Toby Sebastian</actor_name>
+    <actor_link>/name/nm4514519/</actor_link>
+    <houses>
+        <house_name>Martell</house_name>
+    </houses>
+    <parents>
+        <name>Doran Martell</name>
+    </parents>
+    <married_engaged>
+        <name>Myrcella Baratheon</name>
+    </married_engaged>
+    <killed_by>
+        <name>Obara Sand</name>
+    </killed_by>
+</character>

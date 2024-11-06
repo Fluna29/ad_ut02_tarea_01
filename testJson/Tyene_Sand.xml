@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Tyene Sand</character_name>
+    <character_link>/character/ch0468075/</character_link>
+    <character_image_thumb>https://images-na.ssl-images-amazon.com/images/M/MV5BNDY5NzBiMTQtYzhmMS00Y2FmLTkzYzYtYzM2ODBjNGZlNGNiXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1._SX100_SY140_.jpg</character_image_thumb>
+    <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BNDY5NzBiMTQtYzhmMS00Y2FmLTkzYzYtYzM2ODBjNGZlNGNiXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg</character_image_full>
+    <actor_name>Rosabell Laurenti Sellers</actor_name>
+    <actor_link>/name/nm3065809/</actor_link>
+    <houses>
+        <house_name>Martell</house_name>
+    </houses>
+    <parents>
+        <name>Oberyn Martell</name>
+        <name>Ellaria Sand</name>
+    </parents>
+    <killed>
+        <name>Areo Hotah</name>
+        <name>Maester Caleotte</name>
+    </killed>
+    <killed_by>
+        <name>Cersei Lannister</name>
+    </killed_by>
+</character>

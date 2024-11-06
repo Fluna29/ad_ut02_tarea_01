@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Mace Tyrell</character_name>
+    <character_link>/character/ch0384328/</character_link>
+    <character_image_thumb>https://images-na.ssl-images-amazon.com/images/M/MV5BNTcyZWFjZjItYmI4NS00ZDE2LTg4Y2YtYWJkYWI5MWJlNWFjXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1._SX100_SY140_.jpg</character_image_thumb>
+    <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BNTcyZWFjZjItYmI4NS00ZDE2LTg4Y2YtYWJkYWI5MWJlNWFjXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg</character_image_full>
+    <actor_name>Roger Ashton-Griffiths</actor_name>
+    <actor_link>/name/nm0004355/</actor_link>
+    <houses>
+        <house_name>Tyrell</house_name>
+    </houses>
+    <parent_of>
+        <name>Margaery Tyrell</name>
+        <name>Loras Tyrell</name>
+    </parent_of>
+    <killed_by>
+        <name>Cersei Lannister</name>
+    </killed_by>
+</character>

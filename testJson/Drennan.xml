@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Drennan</character_name>
+    <character_link>/character/ch0305030/</character_link>
+    <actor_name>David Coakley</actor_name>
+    <actor_link>/name/nm2231505/</actor_link>
+    <killed_by>
+        <name>Osha</name>
+    </killed_by>
+</character>

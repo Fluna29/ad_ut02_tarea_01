@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Will</character_name>
+    <character_link>/character/ch0171394/</character_link>
+    <character_image_thumb>https://images-na.ssl-images-amazon.com/images/M/MV5BMjA0NjU2MjIzNF5BMl5BanBnXkFtZTgwNzEyODI1MDI@._V1_SY100_CR16,0,100,100_AL_.jpg</character_image_thumb>
+    <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BMjA0NjU2MjIzNF5BMl5BanBnXkFtZTgwNzEyODI1MDI@._V1_.jpg</character_image_full>
+    <actor_name>Bronson Webb</actor_name>
+    <actor_link>/name/nm0916037/</actor_link>
+    <killed_by>
+        <name>Eddard Stark</name>
+    </killed_by>
+</character>

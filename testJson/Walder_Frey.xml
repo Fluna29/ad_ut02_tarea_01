@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<character>
+    <character_name>Walder Frey</character_name>
+    <character_link>/character/ch0305328/</character_link>
+    <character_image_thumb>https://images-na.ssl-images-amazon.com/images/M/MV5BYzU0YzZjMTktZDA2Ni00YTRhLWFkZTgtOTQ4Yjg2MmQ2OGUzXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1._SX100_SY140_.jpg</character_image_thumb>
+    <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BYzU0YzZjMTktZDA2Ni00YTRhLWFkZTgtOTQ4Yjg2MmQ2OGUzXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg</character_image_full>
+    <actor_name>David Bradley</actor_name>
+    <actor_link>/name/nm0103195/</actor_link>
+    <houses>
+        <house_name>Frey</house_name>
+    </houses>
+    <parent_of>
+        <name>Black Walder Rivers</name>
+        <name>Lothar Frey</name>
+        <name>Roslin Frey</name>
+        <name>Ryger Rivers</name>
+    </parent_of>
+    <married_engaged>
+        <name>Joyeuse Erenford</name>
+        <name>Kitty Frey</name>
+    </married_engaged>
+    <killed_by>
+        <name>Arya Stark</name>
+    </killed_by>
+</character>
