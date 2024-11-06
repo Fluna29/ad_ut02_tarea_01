@@ -165,4 +165,6 @@ public class CharactersJson {
         public String getActorLink() { return actorLink; }
         public List<Integer> getSeasonsActive() { return seasonsActive; }
     }
+
+
 }
