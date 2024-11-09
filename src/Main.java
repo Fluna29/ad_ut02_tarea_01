@@ -7,6 +7,12 @@ import java.util.List;
 import java.util.Map;
 import jakarta.xml.bind.JAXBContext;
 import jakarta.xml.bind.Marshaller;
+
+import javax.xml.XMLConstants;
+import javax.xml.transform.stream.StreamSource;
+import javax.xml.validation.Schema;
+import javax.xml.validation.SchemaFactory;
+import javax.xml.validation.Validator;
 import java.io.File;
 
 public class Main {
@@ -54,12 +60,20 @@ public class Main {
             // Marshall the whole list of characters into an XML file
             CharactersListWrapper wrapper = new CharactersListWrapper();
             wrapper.setCharacters(charactersList);
-            String filePath = "testJson/charactersList.xml";
+            String filePath = "testJson/characters.xml";
             marshalling(wrapper, filePath);
+
+            // Validate charactersList.xml against charactersList.xsd
+            validateXml("testJson/characters.xml", "testJson/characters.xsd");
+
+            // Validate characters_novalid.xml
+            validateXml("testJson/characters_novalid.xml", "testJson/characters.xsd");
+
 
         } catch (Exception e) {
             e.printStackTrace();
         }
+
     }
 
     // Read JSON from the URL using Gson
@@ -93,4 +107,22 @@ public class Main {
             return actorNames.toString();
         }
     }
+
+    public static void validateXml(String xmlPath, String xsdPath) {
+        try {
+            // Create the schema capable of understanding W3C XML Schema
+            SchemaFactory factory = SchemaFactory.newInstance(XMLConstants.W3C_XML_SCHEMA_NS_URI);
+            Schema schema = factory.newSchema(new File(xsdPath));
+
+            //Create a validator for the schema
+            Validator validator = schema.newValidator();
+
+            // Validate the XML file
+            validator.validate(new StreamSource(new File(xmlPath)));
+            System.out.println("\nThe document " + xmlPath + " is valid.");
+        } catch (Exception e) {
+            System.out.println("\nThe document " + xmlPath + " isn't valid: " + e.getMessage());
+        }
+    }
+
 }

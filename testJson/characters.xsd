@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+    <xs:element name="character">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="characters"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="characters">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" ref="character_data"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="character_data">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="character_name"/>
+                <xs:element minOccurs="0" ref="character_link"/>
+                <xs:sequence minOccurs="0">
+                    <xs:element ref="character_image_thumb"/>
+                    <xs:element ref="character_image_full"/>
+                </xs:sequence>
+                <xs:element minOccurs="0" ref="actors"/>
+                <xs:element minOccurs="0" ref="actor_name"/>
+                <xs:element minOccurs="0" ref="actor_link"/>
+                <xs:element minOccurs="0" ref="houses"/>
+                <xs:element minOccurs="0" ref="nickname"/>
+                <xs:choice minOccurs="0">
+                    <xs:element ref="kingsguard"/>
+                    <xs:element ref="royal"/>
+                </xs:choice>
+                <xs:element minOccurs="0" ref="parents"/>
+                <xs:element minOccurs="0" ref="parent_of"/>
+                <xs:element minOccurs="0" ref="guardian_of"/>
+                <xs:element minOccurs="0" ref="guarded_by"/>
+                <xs:element minOccurs="0" ref="siblings"/>
+                <xs:element minOccurs="0" ref="married_engaged"/>
+                <xs:element minOccurs="0" ref="abducted"/>
+                <xs:element minOccurs="0" ref="allies"/>
+                <xs:element minOccurs="0" ref="killed"/>
+                <xs:element minOccurs="0" ref="killed_by"/>
+                <xs:element minOccurs="0" ref="serves"/>
+                <xs:element minOccurs="0" ref="served_by"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="character_name" type="xs:string"/>
+    <xs:element name="character_link" type="xs:string"/>
+    <xs:element name="character_image_thumb" type="xs:anyURI"/>
+    <xs:element name="character_image_full" type="xs:anyURI"/>
+    <xs:element name="actors">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" ref="actor"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="actor">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="actor_name"/>
+                <xs:element ref="actor_link"/>
+                <xs:element ref="seasons_active"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="seasons_active">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" ref="season"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="season" type="xs:integer"/>
+    <xs:element name="houses">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" ref="house_name"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="house_name" type="xs:NCName"/>
+    <xs:element name="nickname" type="xs:string"/>
+    <xs:element name="kingsguard" type="xs:boolean"/>
+    <xs:element name="royal" type="xs:boolean"/>
+    <xs:element name="parents">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" ref="name"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="parent_of">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" ref="name"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="guardian_of">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" ref="name"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="guarded_by">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" ref="name"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="siblings">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" ref="name"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="married_engaged">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" ref="name"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="abducted">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="name"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="allies">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" ref="name"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="killed">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" ref="name"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="killed_by">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" ref="name"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="serves">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" ref="name"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="served_by">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" ref="name"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="actor_name" type="xs:string"/>
+    <xs:element name="actor_link" type="xs:string"/>
+    <xs:element name="name" type="xs:string"/>
+</xs:schema>

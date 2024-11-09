@@ -1,22 +1,19 @@
 import com.google.gson.JsonElement;
 import java.util.List;
 import java.util.ArrayList;
-import jakarta.xml.bind.annotation.XmlElement;
-import jakarta.xml.bind.annotation.XmlElementWrapper;
-import jakarta.xml.bind.annotation.XmlRootElement;
-import jakarta.xml.bind.annotation.XmlType;
+import jakarta.xml.bind.annotation.*;
 
 @XmlRootElement(name = "character")
 //We use XmlType to define the order of the elements in the XML file
 @XmlType(propOrder = {
         "characterName", "characterLink", "characterImageThumb", "characterImageFull",
-        "actorNameAsString", "actorLink", "actors", "houseNameAsString", "nickname", "royal", "kingsguard",
+        "actorNameAsString", "actors", "actorLink",  "houseNameAsString", "nickname", "royal", "kingsguard",
         "parents", "parentOf", "guardianOf", "guardedBy", "siblings",
         "marriedEngaged", "allies", "abducted", "killed", "killedBy", "serves", "servedBy"
 })
 public class CharactersJson {
 
-    @XmlElement(name = "character_name")
+    @XmlElement(name = "character_name", required = true)
     private String characterName;
 
     @XmlElement(name = "character_link")
@@ -41,13 +38,13 @@ public class CharactersJson {
         return null;  // Returns null in case it's an array.
     }
 
-    @XmlElement(name = "actor_link")
-    private String actorLink;
-
     @XmlElementWrapper(name = "actors")
     @XmlElement(name = "actor")
     //This is used for the case when there are more than one actor for a character.
     private List<Actor> actors;
+
+    @XmlElement(name = "actor_link")
+    private String actorLink;
 
     private JsonElement houseName;  // It can be a single String or an array of Strings
 
@@ -128,10 +125,10 @@ public class CharactersJson {
     public String getCharacterLink() { return characterLink; }
     public String getCharacterImageThumb() { return characterImageThumb; }
     public String getCharacterImageFull() { return characterImageFull; }
-    public String getActorLink() { return actorLink; }
-    //We only put this getter for the case when there are more than one actor for a character.
-    //Becuase, in the case that is just one actor, we will use the function getActorNameAsString.
+    //We only put the getter "getActors" for the case when there are more than one actor for a character.
+    //Because, in the case that is just one actor, we will use the function getActorNameAsString.
     public List<Actor> getActors() { return actors; }
+    public String getActorLink() { return actorLink; }
     public String getNickname() { return nickname; }
     public Boolean getRoyal() { return royal; }
     public Boolean getKingsguard() { return kingsguard; }
@@ -165,6 +162,4 @@ public class CharactersJson {
         public String getActorLink() { return actorLink; }
         public List<Integer> getSeasonsActive() { return seasonsActive; }
     }
-
-
 }
