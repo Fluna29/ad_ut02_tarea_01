@@ -3,13 +3,12 @@ import com.google.gson.GsonBuilder;
 import com.google.gson.JsonElement;
 import com.google.gson.JsonParser;
 import com.google.gson.reflect.TypeToken;
-import java.io.InputStreamReader;
-import java.io.StringReader;
+
+import java.io.*;
 import java.net.URL;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
-
 import com.google.gson.stream.JsonReader;
 import jakarta.xml.bind.JAXBContext;
 import jakarta.xml.bind.Marshaller;
@@ -17,7 +16,6 @@ import org.w3c.dom.Document;
 import org.w3c.dom.Element;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
-
 import javax.xml.XMLConstants;
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
@@ -25,7 +23,6 @@ import javax.xml.transform.stream.StreamSource;
 import javax.xml.validation.Schema;
 import javax.xml.validation.SchemaFactory;
 import javax.xml.validation.Validator;
-import java.io.File;
 
 public class Main {
 
@@ -87,6 +84,8 @@ public class Main {
                 System.out.println("Actor Name: " + (character.getActorNameAsString() != null ? character.getActorNameAsString() : "?"));
             });
 
+            //Generate CSV file
+            generateCsv(charactersList,"testJson/characters.csv");
         } catch (Exception e) {
             e.printStackTrace();
         }
@@ -210,5 +209,31 @@ public class Main {
         JsonReader reader = new JsonReader(new StringReader(jsonString));
         reader.setLenient(true);
         return JsonParser.parseReader(reader);
+    }
+
+    // Function to generate the CSV file
+    public static void generateCsv(List<CharactersJson> charactersList, String filePath) {
+        try (BufferedWriter writer = new BufferedWriter(new FileWriter(filePath))) {
+            // Write the header (first line) with capitalized attribute names and spaces
+            writer.write("Character Name;Actor Name;Actor Link;Character Image Full;Character Image Thumb;Nickname;Royal;Kings Guard\n");
+
+            // Write data rows for each character
+            for (CharactersJson character : charactersList) {
+                writer.write(String.format("%s;%s;%s;%s;%s;%s;%b;%b\n",
+                        character.getCharacterName(),
+                        character.getActorNameAsString(),
+                        character.getActorLink(),
+                        character.getCharacterImageFull(),
+                        character.getCharacterImageThumb(),
+                        character.getNickname(),
+                        character.getRoyal() != null ? character.getRoyal() : false,
+                        character.getKingsguard() != null ? character.getKingsguard() : false
+                ));
+            }
+
+            System.out.println("\nCSV file generated successfully at " + filePath);
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
     }
 }
