@@ -5,11 +5,12 @@ import jakarta.xml.bind.annotation.*;
 
 @XmlRootElement(name = "character")
 //We use XmlType to define the order of the elements in the XML file
+@XmlAccessorType(XmlAccessType.FIELD)
 @XmlType(propOrder = {
         "characterName", "characterLink", "characterImageThumb", "characterImageFull",
         "actorNameAsString", "actors", "actorLink",  "houseNameAsString", "nickname", "royal", "kingsguard",
         "parents", "parentOf", "guardianOf", "guardedBy", "siblings",
-        "marriedEngaged", "allies", "abducted", "killed", "killedBy", "serves", "servedBy"
+        "marriedEngaged", "allies", "abducted", "killed", "killedBy", "serves", "servedBy", "actorName", "houseName"
 })
 public class CharactersJson {
 
@@ -25,6 +26,7 @@ public class CharactersJson {
     @XmlElement(name = "character_image_full")
     private String characterImageFull;
 
+    @XmlElement(name = "name_actor")
     private JsonElement actorName;  // It can be a single String or an array of Strings
 
     @XmlElement(name = "actor_name")
@@ -120,7 +122,8 @@ public class CharactersJson {
     @XmlElement(name = "name")
     private List<String> servedBy;
 
-    // Getters & Setters
+    // Getters
+
     public String getCharacterName() { return characterName; }
     public String getCharacterLink() { return characterLink; }
     public String getCharacterImageThumb() { return characterImageThumb; }
@@ -128,6 +131,7 @@ public class CharactersJson {
     //We only put the getter "getActors" for the case when there are more than one actor for a character.
     //Because, in the case that is just one actor, we will use the function getActorNameAsString.
     public List<Actor> getActors() { return actors; }
+    public JsonElement getActorName() { return actorName; }
     public String getActorLink() { return actorLink; }
     public String getNickname() { return nickname; }
     public Boolean getRoyal() { return royal; }
@@ -144,6 +148,18 @@ public class CharactersJson {
     public List<String> getKilledBy() { return killedBy; }
     public List<String> getServes() { return serves; }
     public List<String> getServedBy() { return servedBy; }
+
+    // Setters
+    public void setCharacterName(String characterName) { this.characterName = characterName; }
+    public void setCharacterLink(String characterLink) { this.characterLink = characterLink; }
+    public void setCharacterImageThumb(String characterImageThumb) { this.characterImageThumb = characterImageThumb; }
+    public void setCharacterImageFull(String characterImageFull) { this.characterImageFull = characterImageFull; }
+    public void setActorName(JsonElement actorName) { this.actorName = actorName; }
+    public void setActorLink(String actorLink) { this.actorLink = actorLink; }
+    public void setNickname(String nickname) { this.nickname = nickname; }
+    public void setRoyal(Boolean royal) { this.royal = royal; }
+    public void setKingsguard(Boolean kingsguard) { this.kingsguard = kingsguard; }
+
 
     // Inner class for Actor
     public static class Actor {

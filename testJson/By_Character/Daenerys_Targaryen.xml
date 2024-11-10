@@ -58,4 +58,6 @@
         <name>Missandei</name>
         <name>Tyrion Lannister</name>
     </served_by>
+    <name_actor/>
+    <houseName/>
 </character>

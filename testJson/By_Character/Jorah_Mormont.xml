@@ -23,4 +23,6 @@
     <serves>
         <name>Daenerys Targaryen</name>
     </serves>
+    <name_actor/>
+    <houseName/>
 </character>

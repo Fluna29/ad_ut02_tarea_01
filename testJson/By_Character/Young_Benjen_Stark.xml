@@ -7,4 +7,6 @@
     <houses>
         <house_name>Stark</house_name>
     </houses>
+    <name_actor/>
+    <houseName/>
 </character>

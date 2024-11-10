@@ -37,4 +37,6 @@
     <killed_by>
         <name>Boar</name>
     </killed_by>
+    <name_actor/>
+    <houseName/>
 </character>

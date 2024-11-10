@@ -28,4 +28,6 @@
         <name>Tyrion Lannister</name>
         <name>Ramsay Snow</name>
     </married_engaged>
+    <name_actor/>
+    <houseName/>
 </character>

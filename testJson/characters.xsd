@@ -38,12 +38,16 @@
                 <xs:element minOccurs="0" ref="guarded_by"/>
                 <xs:element minOccurs="0" ref="siblings"/>
                 <xs:element minOccurs="0" ref="married_engaged"/>
-                <xs:element minOccurs="0" ref="abducted"/>
                 <xs:element minOccurs="0" ref="allies"/>
-                <xs:element minOccurs="0" ref="killed"/>
+                <xs:choice minOccurs="0">
+                    <xs:element ref="abducted"/>
+                    <xs:element ref="killed"/>
+                </xs:choice>
                 <xs:element minOccurs="0" ref="killed_by"/>
                 <xs:element minOccurs="0" ref="serves"/>
                 <xs:element minOccurs="0" ref="served_by"/>
+                <xs:element minOccurs="0" ref="name_actor"/>
+                <xs:element minOccurs="0" ref="houseName"/>
             </xs:sequence>
         </xs:complexType>
     </xs:element>
@@ -128,17 +132,17 @@
             </xs:sequence>
         </xs:complexType>
     </xs:element>
-    <xs:element name="abducted">
-        <xs:complexType>
-            <xs:sequence>
-                <xs:element ref="name"/>
-            </xs:sequence>
-        </xs:complexType>
-    </xs:element>
     <xs:element name="allies">
         <xs:complexType>
             <xs:sequence>
                 <xs:element maxOccurs="unbounded" ref="name"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="abducted">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="name"/>
             </xs:sequence>
         </xs:complexType>
     </xs:element>
@@ -169,6 +173,12 @@
                 <xs:element maxOccurs="unbounded" ref="name"/>
             </xs:sequence>
         </xs:complexType>
+    </xs:element>
+    <xs:element name="name_actor">
+        <xs:complexType/>
+    </xs:element>
+    <xs:element name="houseName">
+        <xs:complexType/>
     </xs:element>
     <xs:element name="actor_name" type="xs:string"/>
     <xs:element name="actor_link" type="xs:string"/>

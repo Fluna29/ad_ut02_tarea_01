@@ -39,4 +39,6 @@
     <killed_by>
         <name>Roof collapse</name>
     </killed_by>
+    <name_actor/>
+    <houseName/>
 </character>

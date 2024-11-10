@@ -6,6 +6,7 @@
             <character_link>/character/ch0305333/</character_link>
             <actor_name>B.J. Hogg</actor_name>
             <actor_link>/name/nm0389698/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Aegon Targaryen</character_name>
@@ -24,6 +25,7 @@
             <killed_by>
                 <name>Gregor Clegane</name>
             </killed_by>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Aeron Greyjoy</character_name>
@@ -40,6 +42,8 @@
                 <name>Balon Greyjoy</name>
                 <name>Euron Greyjoy</name>
             </siblings>
+            <name_actor/>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Aerys II Targaryen</character_name>
@@ -75,6 +79,8 @@
                 <name>Arthur Dayne</name>
                 <name>Jaime Lannister</name>
             </served_by>
+            <name_actor/>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Akho</character_name>
@@ -86,6 +92,7 @@
             <killed_by>
                 <name>Daario Naharis</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Alliser Thorne</character_name>
@@ -100,6 +107,7 @@
             <killed_by>
                 <name>Jon Snow</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Alton Lannister</character_name>
@@ -114,6 +122,8 @@
             <killed_by>
                 <name>Jaime Lannister</name>
             </killed_by>
+            <name_actor/>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Alys Karstark</character_name>
@@ -123,6 +133,7 @@
             <parents>
                 <name>Harald Karstark</name>
             </parents>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Amory Lorch</character_name>
@@ -137,6 +148,7 @@
             <killed_by>
                 <name>Jaqen H'ghar</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Anguy</character_name>
@@ -145,12 +157,14 @@
             <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BNmRhY2M4YmItNjc2Yi00ZDc0LWE5NmUtNGE5OWE0YTQ2YjY3XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg</character_image_full>
             <actor_name>Philip McGinley</actor_name>
             <actor_link>/name/nm1528121/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Archmaester Marwyn</character_name>
             <character_link>/character/ch0578265/</character_link>
             <actor_name>Jim Broadbent</actor_name>
             <actor_link>/name/nm0000980/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Areo Hotah</character_name>
@@ -165,6 +179,7 @@
             <serves>
                 <name>Doran Martell</name>
             </serves>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Armeca</character_name>
@@ -173,12 +188,14 @@
             <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BZmQyMGVlMDctYWFhMi00YzMyLTlkZDgtOWNmZTY3NmZkYzZlXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg</character_image_full>
             <actor_name>Sahara Knite</actor_name>
             <actor_link>/name/nm1783582/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Arthur</character_name>
             <character_link>/character/ch0305326/</character_link>
             <actor_name>Nathanael Saleh</actor_name>
             <actor_link>/name/nm8127149/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Arthur Dayne</character_name>
@@ -195,6 +212,7 @@
             <serves>
                 <name>Aerys II Targaryen</name>
             </serves>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Arya Stark</character_name>
@@ -235,6 +253,8 @@
                 <name>White Walker</name>
                 <name>Viserion</name>
             </killed>
+            <name_actor/>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Baby Sam</character_name>
@@ -281,6 +301,8 @@
             <killed_by>
                 <name>Euron Greyjoy</name>
             </killed_by>
+            <name_actor/>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Baratheon Guard</character_name>
@@ -290,6 +312,8 @@
             <houses>
                 <house_name>Baratheon</house_name>
             </houses>
+            <name_actor/>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Barristan Selmy</character_name>
@@ -304,6 +328,7 @@
             <serves>
                 <name>Daenerys Targaryen</name>
             </serves>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Benjen Stark</character_name>
@@ -326,6 +351,8 @@
             <killed_by>
                 <name>Wights</name>
             </killed_by>
+            <name_actor/>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Beric Dondarrion</character_name>
@@ -363,6 +390,7 @@
             <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BYWJhYjcxYzgtMDlhZi00OGNhLWE0NzAtMWFhMDJlYTZmYzY2XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg</character_image_full>
             <actor_name>Eline Powell</actor_name>
             <actor_link>/name/nm4730958/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Biter</character_name>
@@ -374,6 +402,7 @@
             <killed_by>
                 <name>Sandor Clegane</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Black Lorren</character_name>
@@ -382,6 +411,7 @@
             <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BNjg5ZGZjZDUtZmJmNC00MjQ5LWJhZDAtOTc0MzYzNTNkMTZiXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg</character_image_full>
             <actor_name>Forbes KB</actor_name>
             <actor_link>/name/nm1978998/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Black Walder Rivers</character_name>
@@ -400,6 +430,8 @@
             <killed_by>
                 <name>Arya Stark</name>
             </killed_by>
+            <name_actor/>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Bobono</character_name>
@@ -408,6 +440,7 @@
             <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BZWRmNWVhNTctOGJlZC00ZjVlLThkY2MtODU3Y2I2Njc1YzZjL2ltYWdlXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg</character_image_full>
             <actor_name>Leigh Gill</actor_name>
             <actor_link>/name/nm5279916/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Bowen Marsh</character_name>
@@ -422,6 +455,7 @@
             <killed_by>
                 <name>Jon Snow</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Brandon Stark</character_name>
@@ -439,6 +473,7 @@
             <killed_by>
                 <name>Aerys II Targaryen</name>
             </killed_by>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Bran Stark</character_name>
@@ -464,6 +499,8 @@
                 <name>Arya Stark</name>
                 <name>Rickon Stark</name>
             </siblings>
+            <name_actor/>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Brea</character_name>
@@ -472,6 +509,7 @@
             <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BMTUxMzc4MjE3N15BMl5BanBnXkFtZTgwMDg0Njc5NTE@._V1_SX1777_CR0,0,1777,999_AL_.jpg</character_image_full>
             <actor_name>Gemita Samarra</actor_name>
             <actor_link>/name/nm5106314/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Brienne of Tarth</character_name>
@@ -495,6 +533,7 @@
             <served_by>
                 <name>Podrick Payne</name>
             </served_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Bronn</character_name>
@@ -511,6 +550,7 @@
                 <name>Matthos Seaworth</name>
                 <name>Lead Dornish Guard</name>
             </killed>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Brother Ray</character_name>
@@ -522,6 +562,7 @@
             <killed_by>
                 <name>Lem Lemoncloak</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Brynden Tully</character_name>
@@ -537,12 +578,15 @@
             <siblings>
                 <name>Hoster Tully</name>
             </siblings>
+            <name_actor/>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Captain of the Archers</character_name>
             <character_link>/character/ch0540864/</character_link>
             <actor_name>Michael Grennell</actor_name>
             <actor_link>/name/nm1214477/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Catelyn Stark</character_name>
@@ -579,6 +623,8 @@
             <killed_by>
                 <name>Black Walder Rivers</name>
             </killed_by>
+            <name_actor/>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Catspaw Assassin</character_name>
@@ -588,6 +634,7 @@
             <killed_by>
                 <name>Summer</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Cersei Lannister</character_name>
@@ -628,6 +675,8 @@
             <killed_by>
                 <name>Roof collapse</name>
             </killed_by>
+            <name_actor/>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Child of the Forest</character_name>
@@ -636,6 +685,7 @@
             <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BOTdjYmYxNjctODU1OC00NzIwLTk0ODktNDc3NzA2MzRhYzIwXkEyXkFqcGdeQXVyNTcxMzMwNTA@._V1_.jpg</character_image_full>
             <actor_name>Alice Hewkin</actor_name>
             <actor_link>/name/nm2456829/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Citadel Maester</character_name>
@@ -644,12 +694,14 @@
             <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BMTg3NDA1Nzc5Nl5BMl5BanBnXkFtZTgwMjIwNTgyOTE@._V1_SY1000_CR0,0,1502,1000_AL_.jpg</character_image_full>
             <actor_name>Frank Hvam</actor_name>
             <actor_link>/name/nm0404809/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Colen of Greenpools</character_name>
             <character_link>/character/ch0350989/</character_link>
             <actor_name>Darren Killeen</actor_name>
             <actor_link>/name/nm4007028/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Craster</character_name>
@@ -661,6 +713,7 @@
             <killed_by>
                 <name>Karl Tanner</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Daario Naharis</character_name>
@@ -756,6 +809,8 @@
                 <name>Missandei</name>
                 <name>Tyrion Lannister</name>
             </served_by>
+            <name_actor/>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Dagmer Cleftjaw</character_name>
@@ -764,6 +819,7 @@
             <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BYWRlYzI5ZTQtODU0My00MWUyLWExNTMtNGQ4OTIwYzE2YzFiXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg</character_image_full>
             <actor_name>Ralph Ineson</actor_name>
             <actor_link>/name/nm0408591/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Daisy</character_name>
@@ -772,6 +828,7 @@
             <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BMDk2ODRhNzItOGZhNi00YTUyLThkMzctMDQ2Zjg5MzY1NTI2XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg</character_image_full>
             <actor_name>Maisie Dee</actor_name>
             <actor_link>/name/nm3996678/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Davos Seaworth</character_name>
@@ -787,6 +844,7 @@
                 <name>Stannis Baratheon</name>
                 <name>Jon Snow</name>
             </serves>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Dickon Tarly</character_name>
@@ -831,12 +889,14 @@
             <killed_by>
                 <name>Night's Watchman</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Donnel Waynwood</character_name>
             <character_link>/character/ch0544229/</character_link>
             <actor_name>Alisdair Simpson</actor_name>
             <actor_link>/name/nm1368037/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Dontos Hollard</character_name>
@@ -848,6 +908,7 @@
             <killed_by>
                 <name>Petyr Baelish</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Doran Martell</character_name>
@@ -869,6 +930,8 @@
             <killed_by>
                 <name>Ellaria Sand</name>
             </killed_by>
+            <name_actor/>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Doreah</character_name>
@@ -883,6 +946,7 @@
             <killed_by>
                 <name>Daenerys Targaryen</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Dothraki Bloodrider #1</character_name>
@@ -894,6 +958,7 @@
             <killed_by>
                 <name>Daenerys Targaryen</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Dothraki Bloodrider #2</character_name>
@@ -905,6 +970,7 @@
             <killed_by>
                 <name>Daenerys Targaryen</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Drennan</character_name>
@@ -914,6 +980,7 @@
             <killed_by>
                 <name>Osha</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Drogon</character_name>
@@ -932,6 +999,7 @@
                 <name>Kraznys mo Nakloz</name>
                 <name>Zalla</name>
             </killed>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Drowned Priest</character_name>
@@ -940,6 +1008,7 @@
             <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BOGEwMjRhYzgtYjY1YS00MjhlLTllYjYtNWQzOGQxOTE3ZDczXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg</character_image_full>
             <actor_name>Jonathan Ryan</actor_name>
             <actor_link>/name/nm0752638/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Eddard Stark</character_name>
@@ -989,6 +1058,8 @@
             <killed_by>
                 <name>Ilyn Payne</name>
             </killed_by>
+            <name_actor/>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Eddison Tollett</character_name>
@@ -1000,6 +1071,7 @@
             <killed_by>
                 <name>Wight</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Edmure Tully</character_name>
@@ -1018,6 +1090,8 @@
             <married_engaged>
                 <name>Roslin Frey</name>
             </married_engaged>
+            <name_actor/>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Ellaria Sand</character_name>
@@ -1039,6 +1113,8 @@
                 <name>Myrcella Baratheon</name>
                 <name>Doran Martell</name>
             </killed>
+            <name_actor/>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Elia Martell</character_name>
@@ -1060,12 +1136,14 @@
             <killed_by>
                 <name>Gregor Clegane</name>
             </killed_by>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Eon Hunter</character_name>
             <character_link>/character/ch0305321/</character_link>
             <actor_name>Barrington Cullen</actor_name>
             <actor_link>/name/nm4473207/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Euron Greyjoy</character_name>
@@ -1090,6 +1168,8 @@
             <killed_by>
                 <name>Jaime Lannister</name>
             </killed_by>
+            <name_actor/>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Faceless Man</character_name>
@@ -1098,12 +1178,14 @@
             <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BMjI4ODYxODI0MF5BMl5BanBnXkFtZTgwMDk4NDY0NTE@._V1_SY1000_CR0,0,665,1000_AL_.jpg</character_image_full>
             <actor_name>Cedric Henderson</actor_name>
             <actor_link>/name/nm2406775/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Farlen</character_name>
             <character_link>/character/ch0305027/</character_link>
             <actor_name>Peter Ballance</actor_name>
             <actor_link>/name/nm0050520/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Gared</character_name>
@@ -1115,6 +1197,7 @@
             <killed_by>
                 <name>White Walker</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Gatins</character_name>
@@ -1126,6 +1209,7 @@
             <killed_by>
                 <name>Sandor Clegane</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Gendry</character_name>
@@ -1144,6 +1228,8 @@
                 <name>Kevin Eldon</name>
                 <name>Laurence Spellman</name>
             </killed>
+            <name_actor/>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Gerold Hightower</character_name>
@@ -1155,6 +1241,7 @@
             <killed_by>
                 <name>Eddard Stark</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Ghost</character_name>
@@ -1174,6 +1261,7 @@
             <killed>
                 <name>Rast</name>
             </killed>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Gilly</character_name>
@@ -1191,30 +1279,35 @@
             <married_engaged>
                 <name>Samwell Tarly</name>
             </married_engaged>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Goldcloak</character_name>
             <character_link>/character/ch0305037/</character_link>
             <actor_name>Alan Paris</actor_name>
             <actor_link>/name/nm3354768/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Goldcloak</character_name>
             <character_link>/character/ch0305037/</character_link>
             <actor_name>Sam Callis</actor_name>
             <actor_link>/name/nm0130538/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Goldcloak #1</character_name>
             <character_link>/character/ch0305037/</character_link>
             <actor_name>Nikovich Sammut</actor_name>
             <actor_link>/name/nm2089809/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Goldcloak #2</character_name>
             <character_link>/character/ch0305037/</character_link>
             <actor_name>Seamus Kelly</actor_name>
             <actor_link>/name/nm4440118/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Grand Maester Pycelle</character_name>
@@ -1226,6 +1319,7 @@
             <killed_by>
                 <name>Little Birds</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Great Master #1</character_name>
@@ -1277,30 +1371,35 @@
             <character_link>/character/ch0525536/</character_link>
             <actor_name>Peter Silverleaf</actor_name>
             <actor_link>/name/nm0798872/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Great Master #4</character_name>
             <character_link>/character/ch0525536/</character_link>
             <actor_name>Davor Jozinovic</actor_name>
             <actor_link>/name/nm7318132/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Great Master #5</character_name>
             <character_link>/character/ch0525536/</character_link>
             <actor_name>Ivan Peric</actor_name>
             <actor_link>/name/nm3005802/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Great Master #6</character_name>
             <character_link>/character/ch0525536/</character_link>
             <actor_name>Hadi Kermani</actor_name>
             <actor_link>/name/nm7318134/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Great Master #7</character_name>
             <character_link>/character/ch0525536/</character_link>
             <actor_name>Tonci Banov</actor_name>
             <actor_link>/name/nm7318135/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Greatjon Umber</character_name>
@@ -1312,6 +1411,7 @@
             <parent_of>
                 <name>Smalljon Umber</name>
             </parent_of>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Gregor Clegane</character_name>
@@ -1375,6 +1475,7 @@
             <killed_by>
                 <name>Unsullied</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Grenn</character_name>
@@ -1389,6 +1490,7 @@
             <killed_by>
                 <name>Mag the Mighty</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Grey Wind</character_name>
@@ -1411,6 +1513,7 @@
             <killed_by>
                 <name>Frey Crossbowmen</name>
             </killed_by>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Grey Worm</character_name>
@@ -1427,6 +1530,7 @@
             <serves>
                 <name>Daenerys Targaryen</name>
             </serves>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Hallyne</character_name>
@@ -1435,6 +1539,7 @@
             <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BMDg4YzNjMzMtYzk4OS00NTEwLWE1NWItYjMyODViNTQ4YmUxXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg</character_image_full>
             <actor_name>Roy Dotrice</actor_name>
             <actor_link>/name/nm0234541/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Handmaid</character_name>
@@ -1443,6 +1548,7 @@
             <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BMGUwMjczOGQtZjRmOC00NmIyLWE1YmMtZmE2OGEzNzY2Mjg4XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg</character_image_full>
             <actor_name>Sabrina Bartlett</actor_name>
             <actor_link>/name/nm6301068/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Handmaid</character_name>
@@ -1451,6 +1557,7 @@
             <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BMGUwMjczOGQtZjRmOC00NmIyLWE1YmMtZmE2OGEzNzY2Mjg4XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg</character_image_full>
             <actor_name>Sara Dylan</actor_name>
             <actor_link>/name/nm2407387/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Harald Karstark</character_name>
@@ -1465,6 +1572,7 @@
             <parent_of>
                 <name>Alys Karstark</name>
             </parent_of>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Harry Strickland</character_name>
@@ -1475,6 +1583,7 @@
             <killed_by>
                 <name>Grey Worm</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>High Priestess</character_name>
@@ -1483,6 +1592,7 @@
             <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BMjA1MzQxOTMwM15BMl5BanBnXkFtZTgwMzkwMzg4ODE@._V1_SY1000_CR0,0,1502,1000_AL_.jpg</character_image_full>
             <actor_name>Souad Faress</actor_name>
             <actor_link>/name/nm0267256/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>High Septon</character_name>
@@ -1492,6 +1602,7 @@
             <killed_by>
                 <name>Kings Landing Rioters</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>High Septon</character_name>
@@ -1500,6 +1611,7 @@
             <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BNDYyYTc3OTgtMmE1Mi00NDVmLWIyNjYtOTIwNDAyYmVmN2E5XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg</character_image_full>
             <actor_name>Paul Bentley</actor_name>
             <actor_link>/name/nm0072855/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>High Sparrow</character_name>
@@ -1511,6 +1623,7 @@
             <killed_by>
                 <name>Cersei Lannister</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Hizdahr zo Loraq</character_name>
@@ -1522,6 +1635,7 @@
             <killed_by>
                 <name>Sons of the Harpy</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Hodor</character_name>
@@ -1536,6 +1650,7 @@
             <killed_by>
                 <name>Wights</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Hoster Tully</character_name>
@@ -1547,6 +1662,8 @@
             <houses>
                 <house_name>Tully</house_name>
             </houses>
+            <name_actor/>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Hot Pie</character_name>
@@ -1555,6 +1672,7 @@
             <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BOTQyNTI4NDg4M15BMl5BanBnXkFtZTcwNDk4NDk4OQ@@._V1_.jpg</character_image_full>
             <actor_name>Ben Hawkey</actor_name>
             <actor_link>/name/nm3444954/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Howland Reed</character_name>
@@ -1573,6 +1691,7 @@
             <killed>
                 <name>Arthur Dayne</name>
             </killed>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Hugh of the Vale</character_name>
@@ -1584,6 +1703,7 @@
             <killed_by>
                 <name>Gregor Clegane</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Illyrio Mopatis</character_name>
@@ -1592,6 +1712,7 @@
             <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BMzM1OWY0ZmUtNWM5Ny00NzgzLWFhMmUtOWY1Njc3NmNkZmM1XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg</character_image_full>
             <actor_name>Roger Allam</actor_name>
             <actor_link>/name/nm0019885/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Ilyn Payne</character_name>
@@ -1603,6 +1724,7 @@
             <killed>
                 <name>Eddard Stark</name>
             </killed>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Irri</character_name>
@@ -1614,6 +1736,7 @@
             <killed_by>
                 <name>Doreah</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Izembaro</character_name>
@@ -1622,12 +1745,14 @@
             <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BN2NkZmFkMmItNzhiMy00ZTJkLThjM2YtNzBhMzU0ZmJkZjI4XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg</character_image_full>
             <actor_name>Richard E. Grant</actor_name>
             <actor_link>/name/nm0001290/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Jacks</character_name>
             <character_link>/character/ch0305034/</character_link>
             <actor_name>Paul Caddell</actor_name>
             <actor_link>/name/nm4781280/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Jafer Flowers</character_name>
@@ -1675,6 +1800,8 @@
             <killed_by>
                 <name>Roof collapse</name>
             </killed_by>
+            <name_actor/>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Janos Slynt</character_name>
@@ -1689,6 +1816,7 @@
             <killed_by>
                 <name>Jon Snow</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Jaqen H'ghar</character_name>
@@ -1702,12 +1830,14 @@
                 <name>Amory Lorch</name>
                 <name>Despondent Man</name>
             </killed>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Jaqen's Disguise</character_name>
             <character_link>/character/ch0259179/</character_link>
             <actor_name>Patrick O'Kane</actor_name>
             <actor_link>/name/nm0641433/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Jaremy Rykker</character_name>
@@ -1716,6 +1846,7 @@
             <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BMjg4YjRmMDYtZjcyMS00YjM3LTg4OWQtZTg2MDFiZTJkZDIwXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg</character_image_full>
             <actor_name>Jeffrey O'Brien</actor_name>
             <actor_link>/name/nm4475335/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Jeor Mormont</character_name>
@@ -1733,12 +1864,15 @@
             <killed_by>
                 <name>Rast</name>
             </killed_by>
+            <name_actor/>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Jhiqui</character_name>
             <character_link>/character/ch0305044/</character_link>
             <actor_name>Sarita Piotrowski</actor_name>
             <actor_link>/name/nm4424689/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Joffrey Baratheon</character_name>
@@ -1771,6 +1905,8 @@
                 <name>Petyr Baelish</name>
                 <name>Olenna Tyrell</name>
             </killed_by>
+            <name_actor/>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Jojen Reed</character_name>
@@ -1788,6 +1924,7 @@
             <killed_by>
                 <name>Meera Reed</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Jon Arryn</character_name>
@@ -1806,6 +1943,7 @@
             <killed_by>
                 <name>Lysa Arryn</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Jon Snow</character_name>
@@ -1852,12 +1990,15 @@
                 <name>Bowen Marsh</name>
                 <name>Olly</name>
             </killed_by>
+            <name_actor/>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Jonos Bracken</character_name>
             <character_link>/character/ch0305332/</character_link>
             <actor_name>Gerry O'Brien</actor_name>
             <actor_link>/name/nm0639569/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Jorah Mormont</character_name>
@@ -1883,6 +2024,8 @@
             <serves>
                 <name>Daenerys Targaryen</name>
             </serves>
+            <name_actor/>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Jory Cassel</character_name>
@@ -1897,6 +2040,7 @@
             <serves>
                 <name>Eddard Stark</name>
             </serves>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Joyeuse Erenford</character_name>
@@ -1911,6 +2055,7 @@
             <killed_by>
                 <name>Catelyn Stark</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Karl Tanner</character_name>
@@ -1925,6 +2070,7 @@
             <killed_by>
                 <name>Jon Snow</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Karsi</character_name>
@@ -1940,6 +2086,7 @@
             <killed_by>
                 <name>Pack of Wights</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Kayla</character_name>
@@ -1948,6 +2095,7 @@
             <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BZmJhNmU5NGItMmUwNC00NDgxLThlYWMtMzc0NTQ4YmZiMDIxXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_SY1000_CR0,0,1718,1000_AL_.jpg</character_image_full>
             <actor_name>Pixie Le Knot</actor_name>
             <actor_link>/name/nm4768858/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Kegs</character_name>
@@ -1957,6 +2105,7 @@
             <killed_by>
                 <name>Wildling</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Kevan Lannister</character_name>
@@ -1979,6 +2128,8 @@
             <killed_by>
                 <name>Cersei Lannister</name>
             </killed_by>
+            <name_actor/>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Khal Drogo</character_name>
@@ -2000,6 +2151,7 @@
             <killed_by>
                 <name>Daenerys Targaryen</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Khal Moro</character_name>
@@ -2011,6 +2163,7 @@
             <killed_by>
                 <name>Daenerys Targaryen</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Khal Rhalko</character_name>
@@ -2022,30 +2175,35 @@
             <killed_by>
                 <name>Daenerys Targaryen</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>King Joffrey Baratheon Dwarf</character_name>
             <character_link>/character/ch0156278/</character_link>
             <actor_name>Raymond Griffiths</actor_name>
             <actor_link>/name/nm0341739/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>King Renly Baratheon Dwarf</character_name>
             <character_link>/character/ch0246253/</character_link>
             <actor_name>Dean Whatton</actor_name>
             <actor_link>/name/nm2482781/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>King Robb Stark Dwarf</character_name>
             <character_link>/character/ch0158596/</character_link>
             <actor_name>George Appleby</actor_name>
             <actor_link>/name/nm3338062/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>King Stannis Baratheon Dwarf</character_name>
             <character_link>/character/ch0250897/</character_link>
             <actor_name>Maxwell Laird</actor_name>
             <actor_link>/name/nm3453345/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>King's Landing Rioter #1</character_name>
@@ -2055,6 +2213,7 @@
             <killed_by>
                 <name>Sandor Clegane</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>King's Landing Rioter #2</character_name>
@@ -2064,6 +2223,7 @@
             <killed_by>
                 <name>Sandor Clegane</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>King's Landing Rioter #3</character_name>
@@ -2073,6 +2233,7 @@
             <killed_by>
                 <name>Sandor Clegane</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Kinvara</character_name>
@@ -2081,6 +2242,7 @@
             <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BZGNkYWZlZmYtM2Y4Yi00YmJjLTk1OTktNDc0YmMxODY5ZTI2XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg</character_image_full>
             <actor_name>Ania Bukstein</actor_name>
             <actor_link>/name/nm0119804/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Kitty Frey</character_name>
@@ -2093,18 +2255,22 @@
             <married_engaged>
                 <name>Walder Frey</name>
             </married_engaged>
+            <name_actor/>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Knight of House Frey</character_name>
             <character_link>/character/ch0305317/</character_link>
             <actor_name>Patrick Ryan</actor_name>
             <actor_link>/name/nm3122423/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Knight of House Lynderly</character_name>
             <character_link>/character/ch0305322/</character_link>
             <actor_name>Paddy Rocks</actor_name>
             <actor_link>/name/nm0734304/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Kovarro</character_name>
@@ -2113,6 +2279,7 @@
             <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BZjRmMzgyY2QtMzNmYy00NmRhLWIxNzItOGEwOWU2MzA5YjUwXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg</character_image_full>
             <actor_name>Steven Cole</actor_name>
             <actor_link>/name/nm0170799/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Kraznys mo Nakloz</character_name>
@@ -2124,6 +2291,7 @@
             <killed_by>
                 <name>Drogon</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Kurleket</character_name>
@@ -2135,6 +2303,7 @@
             <killed_by>
                 <name>Mountain Clansman</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Lady</character_name>
@@ -2154,6 +2323,7 @@
             <killed_by>
                 <name>Eddard Stark</name>
             </killed_by>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Lady Crane</character_name>
@@ -2165,6 +2335,7 @@
             <killed_by>
                 <name>The Waif</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Lancel Lannister</character_name>
@@ -2186,36 +2357,43 @@
             <killed_by>
                 <name>Cersei Lannister</name>
             </killed_by>
+            <name_actor/>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Lannister Captain</character_name>
             <character_link>/character/ch0305308/</character_link>
             <actor_name>Aiden Condron</actor_name>
             <actor_link>/name/nm0174449/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Lannister Captain</character_name>
             <character_link>/character/ch0305308/</character_link>
             <actor_name>Richard Laing</actor_name>
             <actor_link>/name/nm0481924/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Lannister Guardsman</character_name>
             <character_link>/character/ch0305047/</character_link>
             <actor_name>Conor Delaney</actor_name>
             <actor_link>/name/nm1406364/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Lannister Messenger</character_name>
             <character_link>/character/ch0379228/</character_link>
             <actor_name>Simon Stewart</actor_name>
             <actor_link>/name/nm4492930/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Lannister Scout</character_name>
             <character_link>/character/ch0379230/</character_link>
             <actor_name>Chris Gallagher</actor_name>
             <actor_link>/name/nm3292422/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Lead Dornish Guard</character_name>
@@ -2227,6 +2405,7 @@
             <killed_by>
                 <name>Bronn</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Leaf</character_name>
@@ -2266,12 +2445,14 @@
             <killed_by>
                 <name>Sandor Clegane</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Leo Lefford</character_name>
             <character_link>/character/ch0305040/</character_link>
             <actor_name>Vinnie McCabe</actor_name>
             <actor_link>/name/nm0564516/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Lhara</character_name>
@@ -2280,48 +2461,56 @@
             <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BMTBjZDY4M2YtOWU1ZC00NTA2LWI4ODItYWZjYjlhMWY5NDhmL2ltYWdlXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg</character_image_full>
             <actor_name>Sarine Sofair</actor_name>
             <actor_link>/name/nm3330066/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Little Bird</character_name>
             <character_link>/character/ch0305326/</character_link>
             <actor_name>Samuel Paul Small</actor_name>
             <actor_link>/name/nm6537691/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Little Bird</character_name>
             <character_link>/character/ch0305326/</character_link>
             <actor_name>Tristan Mercieca</actor_name>
             <actor_link>/name/nm4475204/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Little Bird #3</character_name>
             <character_link>/character/ch0305326/</character_link>
             <actor_name>Michael Nevin</actor_name>
             <actor_link>/name/nm8127150/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Little Bird #4</character_name>
             <character_link>/character/ch0305326/</character_link>
             <actor_name>Jesse Magee</actor_name>
             <actor_link>/name/nm8127151/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Little Bird #5</character_name>
             <character_link>/character/ch0305326/</character_link>
             <actor_name>Iona Clarke</actor_name>
             <actor_link>/name/nm8133415/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Little Bird #6</character_name>
             <character_link>/character/ch0305326/</character_link>
             <actor_name>Lucy Gallagher</actor_name>
             <actor_link>/name/nm8127152/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Little Bird #7</character_name>
             <character_link>/character/ch0305326/</character_link>
             <actor_name>Fionn Kernan</actor_name>
             <actor_link>/name/nm6462692/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Loboda</character_name>
@@ -2333,6 +2522,7 @@
             <killed_by>
                 <name>White Walker</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Locke</character_name>
@@ -2344,6 +2534,7 @@
             <killed_by>
                 <name>Hodor</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Lollys Stokeworth</character_name>
@@ -2355,6 +2546,7 @@
             <married_engaged>
                 <name>Bronn</name>
             </married_engaged>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Lommy Greenhands</character_name>
@@ -2366,6 +2558,7 @@
             <killed_by>
                 <name>Polliver</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Loras Tyrell</character_name>
@@ -2386,18 +2579,22 @@
             <killed_by>
                 <name>Cersei Lannister</name>
             </killed_by>
+            <name_actor/>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Lord Galbart Glover</character_name>
             <character_link>/character/ch0305041/</character_link>
             <actor_name>Mark Coney</actor_name>
             <actor_link>/name/nm5651524/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Lord Portan</character_name>
             <character_link>/character/ch0305334/</character_link>
             <actor_name>Gordon Fulton</actor_name>
             <actor_link>/name/nm1101680/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Lord Varys</character_name>
@@ -2409,12 +2606,14 @@
             <killed_by>
                 <name>Daenerys Targaryen</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Lordsport Dockhand</character_name>
             <character_link>/character/ch0379224/</character_link>
             <actor_name>Jer O'Leary</actor_name>
             <actor_link>/name/nm0641596/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Lothar Frey</character_name>
@@ -2449,18 +2648,21 @@
             <killed_by>
                 <name>Arya Stark</name>
             </killed_by>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Loyal Night's Watchman #1</character_name>
             <character_link>/character/ch0509452/</character_link>
             <actor_name>Steve Cash</actor_name>
             <actor_link>/name/nm3524836/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Loyal Night's Watchman #2</character_name>
             <character_link>/character/ch0509452/</character_link>
             <actor_name>Robert Fawsitt</actor_name>
             <actor_link>/name/nm6342915/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Lyanna Mormont</character_name>
@@ -2478,6 +2680,8 @@
             <killed_by>
                 <name>Wun Wun</name>
             </killed_by>
+            <name_actor/>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Lyanna Stark</character_name>
@@ -2507,6 +2711,8 @@
             <killed_by>
                 <name>Jon Snow</name>
             </killed_by>
+            <name_actor/>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Lysa Arryn</character_name>
@@ -2535,6 +2741,8 @@
             <killed_by>
                 <name>Petyr Baelish</name>
             </killed_by>
+            <name_actor/>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Mace Tyrell</character_name>
@@ -2553,6 +2761,8 @@
             <killed_by>
                 <name>Cersei Lannister</name>
             </killed_by>
+            <name_actor/>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Maester Aemon</character_name>
@@ -2567,6 +2777,8 @@
             <killed_by>
                 <name>Old Age</name>
             </killed_by>
+            <name_actor/>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Maester Cressen</character_name>
@@ -2581,6 +2793,7 @@
             <killed_by>
                 <name>Maester Cressen</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Maester Luwin</character_name>
@@ -2592,12 +2805,14 @@
             <killed_by>
                 <name>Osha</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Maester Wolkan</character_name>
             <character_link>/character/ch0550545/</character_link>
             <actor_name>Richard Rycroft</actor_name>
             <actor_link>/name/nm1483416/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Mag the Mighty</character_name>
@@ -2616,6 +2831,7 @@
                 <name>Donnel Hill</name>
                 <name>Cooper</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Maggy</character_name>
@@ -2624,6 +2840,7 @@
             <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BZmQ4ZTIyNjYtZWZlZS00MTVjLTgxZTEtMWYyM2RhMzcwYzc4XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg</character_image_full>
             <actor_name>Jodhi May</actor_name>
             <actor_link>/name/nm0562003/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Mago</character_name>
@@ -2635,12 +2852,14 @@
             <killed_by>
                 <name>Khal Drogo</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Male Prostitute</character_name>
             <character_link>/character/ch0441614/</character_link>
             <actor_name>Dennis Stokes</actor_name>
             <actor_link>/name/nm4982614/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Malko</character_name>
@@ -2649,6 +2868,7 @@
             <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BZmUwYTA2YjUtZWU5Zi00OTY1LTlhYjMtOGRhMDZlNTEyOTEzXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg</character_image_full>
             <actor_name>Adewale Akinnuoye-Agbaje</actor_name>
             <actor_link>/name/nm0015382/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Mance Rayder</character_name>
@@ -2661,6 +2881,7 @@
                 <name>Melisandre</name>
                 <name>Jon Snow</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Mandon Moore</character_name>
@@ -2671,12 +2892,14 @@
             <killed_by>
                 <name>Podrick Payne</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Manservant</character_name>
             <character_link>/character/ch0525536/</character_link>
             <actor_name>Conor Watters</actor_name>
             <actor_link>/name/nm6442298/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Marei</character_name>
@@ -2685,6 +2908,7 @@
             <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BYTZkM2M5OWItNjQ1NC00MDcyLWIwYjItODBhZmI5NWYxMDVlL2ltYWdlXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg</character_image_full>
             <actor_name>Josephine Gillan</actor_name>
             <actor_link>/name/nm4982706/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Margaery Tyrell</character_name>
@@ -2710,6 +2934,8 @@
             <killed_by>
                 <name>Cersei Lannister</name>
             </killed_by>
+            <name_actor/>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Margaery's Handmaiden</character_name>
@@ -2718,6 +2944,7 @@
             <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BMTk4NjcwMzAzN15BMl5BanBnXkFtZTcwNzgxNTcyOQ@@._V1_SX1500_CR0,0,1500,999_AL_.jpg</character_image_full>
             <actor_name>Aisling Jarrett-Gavin</actor_name>
             <actor_link>/name/nm2983094/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Marillion</character_name>
@@ -2726,6 +2953,7 @@
             <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BNDVlZmU0NmYtOGM1MS00N2E0LTgxYTYtNTBhZDk1ZTM4M2ViXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg</character_image_full>
             <actor_name>Emun Elliott</actor_name>
             <actor_link>/name/nm2047170/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Martyn Lannister</character_name>
@@ -2745,12 +2973,15 @@
             <killed_by>
                 <name>Rickard Karstark</name>
             </killed_by>
+            <name_actor/>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Masha Heddle</character_name>
             <character_link>/character/ch0305314/</character_link>
             <actor_name>Susie Kelly</actor_name>
             <actor_link>/name/nm3126053/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Matthos Seaworth</character_name>
@@ -2765,6 +2996,7 @@
             <killed_by>
                 <name>Bronn</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Meera Reed</character_name>
@@ -2780,12 +3012,14 @@
                 <name>Jojen Reed</name>
                 <name>White Walker</name>
             </killed>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Meereen Slave Master</character_name>
             <character_link>/character/ch0525536/</character_link>
             <actor_name>Laurence Doherty</actor_name>
             <actor_link>/name/nm2911170/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Melessa Tarly</character_name>
@@ -2802,6 +3036,7 @@
             <married_engaged>
                 <name>Randyll Tarly</name>
             </married_engaged>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Melisandre</character_name>
@@ -2819,6 +3054,7 @@
             <killed_by>
                 <name>Old Age</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Merchant Captain</character_name>
@@ -2828,6 +3064,7 @@
             <killed_by>
                 <name>Obara Sand</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Mero</character_name>
@@ -2839,6 +3076,7 @@
             <killed_by>
                 <name>Daario Naharis</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Meryn Trant</character_name>
@@ -2853,18 +3091,21 @@
             <killed_by>
                 <name>Arya Stark</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Mhaegen</character_name>
             <character_link>/character/ch0305038/</character_link>
             <actor_name>Antonia Christophers</actor_name>
             <actor_link>/name/nm4460936/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Mikken</character_name>
             <character_link>/character/ch0348528/</character_link>
             <actor_name>Boyd Rankin</actor_name>
             <actor_link>/name/nm4595425/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Mirelle</character_name>
@@ -2873,6 +3114,7 @@
             <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BMDFlYzUxNTktYjRiOC00NmM1LTg1OTYtOWMzZTlmOGI0MWE4XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg</character_image_full>
             <actor_name>Elisa Lasowski</actor_name>
             <actor_link>/name/nm2489799/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Mirri Maz Duur</character_name>
@@ -2887,6 +3129,7 @@
             <killed_by>
                 <name>Daenerys Targaryen</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Missandei</character_name>
@@ -2901,6 +3144,7 @@
             <serves>
                 <name>Daenerys Targaryen</name>
             </serves>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Mord</character_name>
@@ -2909,6 +3153,7 @@
             <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BOGIzMmRlOWEtMjUwYy00OGM1LTkwNDEtZTlmODNkMWY4MWU3XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg</character_image_full>
             <actor_name>Ciaran Bermingham</actor_name>
             <actor_link>/name/nm2197118/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Mossador</character_name>
@@ -2923,6 +3168,7 @@
             <killed_by>
                 <name>Daario Naharis</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Musician #1</character_name>
@@ -2931,6 +3177,7 @@
             <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BODA5NjA3ODY1NF5BMl5BanBnXkFtZTgwNzA5ODY2MTE@._V1_SY1000_CR0,0,1502,1000_AL_.jpg</character_image_full>
             <actor_name>Nanna Bryndís Hilmarsdóttir</actor_name>
             <actor_link>/name/nm5652293/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Musician #1</character_name>
@@ -2939,6 +3186,7 @@
             <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BODA5NjA3ODY1NF5BMl5BanBnXkFtZTgwNzA5ODY2MTE@._V1_SY1000_CR0,0,1502,1000_AL_.jpg</character_image_full>
             <actor_name>Jon Thor Birgisson</actor_name>
             <actor_link>/name/nm1743706/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Musician #2</character_name>
@@ -2947,6 +3195,7 @@
             <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BODA5NjA3ODY1NF5BMl5BanBnXkFtZTgwNzA5ODY2MTE@._V1_SY1000_CR0,0,1502,1000_AL_.jpg</character_image_full>
             <actor_name>Ragnar Þórhallsson</actor_name>
             <actor_link>/name/nm5652121/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Musician #2</character_name>
@@ -2955,6 +3204,7 @@
             <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BODA5NjA3ODY1NF5BMl5BanBnXkFtZTgwNzA5ODY2MTE@._V1_SY1000_CR0,0,1502,1000_AL_.jpg</character_image_full>
             <actor_name>Orri P. Dyrason</actor_name>
             <actor_link>/name/nm1743714/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Musician #3</character_name>
@@ -2963,6 +3213,7 @@
             <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BODA5NjA3ODY1NF5BMl5BanBnXkFtZTgwNzA5ODY2MTE@._V1_SY1000_CR0,0,1502,1000_AL_.jpg</character_image_full>
             <actor_name>Georg Holm</actor_name>
             <actor_link>/name/nm1743730/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Musician #3</character_name>
@@ -2971,6 +3222,7 @@
             <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BODA5NjA3ODY1NF5BMl5BanBnXkFtZTgwNzA5ODY2MTE@._V1_SY1000_CR0,0,1502,1000_AL_.jpg</character_image_full>
             <actor_name>Arnar Rosenkranz Hilmarsson</actor_name>
             <actor_link>/name/nm8158202/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Musician #4</character_name>
@@ -2979,6 +3231,7 @@
             <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BODA5NjA3ODY1NF5BMl5BanBnXkFtZTgwNzA5ODY2MTE@._V1_SY1000_CR0,0,1502,1000_AL_.jpg</character_image_full>
             <actor_name>Brynjar Leifsson</actor_name>
             <actor_link>/name/nm8158203/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Musician #5</character_name>
@@ -2987,6 +3240,7 @@
             <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BODA5NjA3ODY1NF5BMl5BanBnXkFtZTgwNzA5ODY2MTE@._V1_SY1000_CR0,0,1502,1000_AL_.jpg</character_image_full>
             <actor_name>Kristján Kristjánsson</actor_name>
             <actor_link>/name/nm1944894/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Mycah</character_name>
@@ -2998,6 +3252,7 @@
             <killed_by>
                 <name>Sandor Clegane</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Myranda</character_name>
@@ -3009,6 +3264,7 @@
             <killed_by>
                 <name>Theon Greyjoy</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Myrcella Baratheon</character_name>
@@ -3052,6 +3308,7 @@
             <killed_by>
                 <name>Ellaria Sand</name>
             </killed_by>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Ned Umber</character_name>
@@ -3064,72 +3321,85 @@
             <killed_by>
                 <name>The Night King</name>
             </killed_by>
+            <name_actor/>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Night's Watch Deserter</character_name>
             <character_link>/character/ch0305319/</character_link>
             <actor_name>Barry John O'Connor</actor_name>
             <actor_link>/name/nm3226454/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Night's Watch Messenger</character_name>
             <character_link>/character/ch0305327/</character_link>
             <actor_name>Frank O'Sullivan</actor_name>
             <actor_link>/name/nm0642751/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Night's Watch Officer</character_name>
             <character_link>/character/ch0305036/</character_link>
             <actor_name>Dennis McKeever</actor_name>
             <actor_link>/name/nm4475182/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Night's Watch Officer</character_name>
             <character_link>/character/ch0305036/</character_link>
             <actor_name>Michael Stuart</actor_name>
             <actor_link>/name/nm5792452/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Night's Watchman</character_name>
             <character_link>/character/ch0509452/</character_link>
             <actor_name>Marcus Lamb</actor_name>
             <actor_link>/name/nm2228622/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Night's Watchman</character_name>
             <character_link>/character/ch0509452/</character_link>
             <actor_name>Michael Hooley</actor_name>
             <actor_link>/name/nm6706699/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Night's Watchman</character_name>
             <character_link>/character/ch0509452/</character_link>
             <actor_name>Patrick J Molloy</actor_name>
             <actor_link>/name/nm3561455/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Night's Watchman #1</character_name>
             <character_link>/character/ch0509452/</character_link>
             <actor_name>Michael Hayes</actor_name>
             <actor_link>/name/nm0371160/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Night's Watchman #2</character_name>
             <character_link>/character/ch0509452/</character_link>
             <actor_name>Ruairí Heading</actor_name>
             <actor_link>/name/nm6316115/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Night's Watchman #2</character_name>
             <character_link>/character/ch0509452/</character_link>
             <actor_name>Tony Flynn</actor_name>
             <actor_link>/name/nm0283642/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Northman Rioter</character_name>
             <character_link>/character/ch0348391/</character_link>
             <actor_name>Jed Murray</actor_name>
             <actor_link>/name/nm5697839/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Nymeria</character_name>
@@ -3146,6 +3416,7 @@
                 <name>Shaggydog</name>
                 <name>Ghost</name>
             </siblings>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Nymeria Sand</character_name>
@@ -3163,6 +3434,8 @@
             <killed_by>
                 <name>Euron Greyjoy</name>
             </killed_by>
+            <name_actor/>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Obara Sand</character_name>
@@ -3184,6 +3457,8 @@
             <killed_by>
                 <name>Euron Greyjoy</name>
             </killed_by>
+            <name_actor/>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Oberyn Martell</character_name>
@@ -3210,6 +3485,8 @@
             <killed_by>
                 <name>Gregor Clegane</name>
             </killed_by>
+            <name_actor/>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Old Nan</character_name>
@@ -3218,12 +3495,14 @@
             <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BZTEzZmMxMzQtYzA4OC00YjI3LTg3Y2QtNjNhMjE2MDMxZDZlXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg</character_image_full>
             <actor_name>Margaret John</actor_name>
             <actor_link>/name/nm0424191/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Old Woman Prisoner</character_name>
             <character_link>/character/ch0327535/</character_link>
             <actor_name>Gina Moxley</actor_name>
             <actor_link>/name/nm0610312/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Olenna Tyrell</character_name>
@@ -3244,6 +3523,8 @@
             <killed_by>
                 <name>Jaime Lannister</name>
             </killed_by>
+            <name_actor/>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Olly</character_name>
@@ -3259,6 +3540,7 @@
             <killed_by>
                 <name>Jon Snow</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Olyvar</character_name>
@@ -3267,6 +3549,7 @@
             <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BOTZiNDAwYzQtMGJkZi00OGM4LTg2OTgtNzFjZTM1ZGExMzNiXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg</character_image_full>
             <actor_name>Will Tudor</actor_name>
             <actor_link>/name/nm4831584/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Orell</character_name>
@@ -3278,6 +3561,7 @@
             <killed_by>
                 <name>Jon Snow</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Ornela</character_name>
@@ -3286,6 +3570,7 @@
             <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BODdmZDIwMTEtYWI1OS00YTVmLWIzZGUtOWI4YTk3MWU3NTNhXkEyXkFqcGdeQXVyMjg2MTMyNTM@._V1_.jpg</character_image_full>
             <actor_name>Hannah John-Kamen</actor_name>
             <actor_link>/name/nm4789912/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Osha</character_name>
@@ -3301,6 +3586,7 @@
             <killed_by>
                 <name>Ramsay Snow</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Othell Yarwyck</character_name>
@@ -3315,6 +3601,7 @@
             <killed_by>
                 <name>Jon Snow</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Othor</character_name>
@@ -3328,6 +3615,7 @@
             <character_link>/character/ch0305042/</character_link>
             <actor_name>Rania Zouari</actor_name>
             <actor_link>/name/nm4422639/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Petyr Baelish</character_name>
@@ -3348,6 +3636,7 @@
             <killed_by>
                 <name>Arya Stark</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Podrick Payne</character_name>
@@ -3366,6 +3655,7 @@
                 <name>Brienne of Tarth</name>
                 <name>Bran Stark</name>
             </serves>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Polliver</character_name>
@@ -3380,6 +3670,7 @@
             <killed_by>
                 <name>Arya Stark</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Prendahl na Ghezn</character_name>
@@ -3391,6 +3682,7 @@
             <killed_by>
                 <name>Daario Naharis</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Pyat Pree</character_name>
@@ -3408,6 +3700,7 @@
                 <name>Viserion</name>
                 <name>Rhaegal</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Pypar</character_name>
@@ -3419,6 +3712,7 @@
             <killed_by>
                 <name>Ygritte</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Qhono</character_name>
@@ -3427,6 +3721,7 @@
             <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BMGMwYjgwMGQtOGRlNC00NDg0LTliM2ItN2I1NzIxZmQ5YTU1XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg</character_image_full>
             <actor_name>Staz Nair</actor_name>
             <actor_link>/name/nm7047874/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Qhorin Halfhand</character_name>
@@ -3438,6 +3733,7 @@
             <killed_by>
                 <name>Jon Snow</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Qotho</character_name>
@@ -3449,6 +3745,7 @@
             <killed_by>
                 <name>Jorah Mormont</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Quaithe</character_name>
@@ -3457,6 +3754,7 @@
             <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BMWU1YzE1MmUtMDk3ZS00ZTQxLTg5ZjEtYzgxZDk5MzFkOWUyXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg</character_image_full>
             <actor_name>Laura Pradelska</actor_name>
             <actor_link>/name/nm3671418/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Qyburn</character_name>
@@ -3471,6 +3769,7 @@
             <serves>
                 <name>Cersei Lannister</name>
             </serves>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Rakharo</character_name>
@@ -3482,6 +3781,7 @@
             <killed_by>
                 <name>Khal Jhaqo's Khalasar</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Ramsay Snow</character_name>
@@ -3513,6 +3813,8 @@
             <killed_by>
                 <name>Ramsay Snow's Hounds</name>
             </killed_by>
+            <name_actor/>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Randyll Tarly</character_name>
@@ -3532,6 +3834,7 @@
             <killed_by>
                 <name>Daenerys Targaryen</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Rast</character_name>
@@ -3546,6 +3849,7 @@
             <killed_by>
                 <name>Ghost</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Rattleshirt</character_name>
@@ -3584,6 +3888,7 @@
             <killed_by>
                 <name>Grey Worm</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Red Keep Stableboy</character_name>
@@ -3595,12 +3900,14 @@
             <killed_by>
                 <name>Arya Stark</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Red Priestess</character_name>
             <character_link>/character/ch0540866/</character_link>
             <actor_name>Melanie Liburd</actor_name>
             <actor_link>/name/nm4927489/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Red Priestess</character_name>
@@ -3609,6 +3916,7 @@
             <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BNTM5MjlkYjItM2YzOC00NGQwLTllZDktYmY3YmMxYjNjMzVjXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_SY1000_CR0,0,1502,1000_AL_.jpg</character_image_full>
             <actor_name>Rila Fukushima</actor_name>
             <actor_link>/name/nm3822462/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Renly Baratheon</character_name>
@@ -3630,6 +3938,8 @@
             <killed_by>
                 <name>Melisandre</name>
             </killed_by>
+            <name_actor/>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Rhaegal</character_name>
@@ -3650,6 +3960,7 @@
             <killed_by>
                 <name>Euron Greyjoy</name>
             </killed_by>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Rhaegar Targaryen</character_name>
@@ -3680,6 +3991,7 @@
             <killed_by>
                 <name>Robert Baratheon</name>
             </killed_by>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Rhaego</character_name>
@@ -3708,6 +4020,7 @@
             <married_engaged>
                 <name>Aerys II Targaryen</name>
             </married_engaged>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Rhaenys Targaryen</character_name>
@@ -3722,6 +4035,7 @@
             <killed_by>
                 <name>Gregor Clegane</name>
             </killed_by>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Rickard Karstark</character_name>
@@ -3770,6 +4084,7 @@
             <killed_by>
                 <name>Aerys II Targaryen</name>
             </killed_by>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Rickon Stark</character_name>
@@ -3797,6 +4112,8 @@
             <killed_by>
                 <name>Ramsay Snow</name>
             </killed_by>
+            <name_actor/>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Robb Stark</character_name>
@@ -3833,6 +4150,8 @@
             <killed_by>
                 <name>Roose Bolton</name>
             </killed_by>
+            <name_actor/>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Robert Baratheon</character_name>
@@ -3872,6 +4191,8 @@
             <killed_by>
                 <name>Boar</name>
             </killed_by>
+            <name_actor/>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Robett Glover</character_name>
@@ -3880,6 +4201,7 @@
             <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BMDYwNzhkZjctMzdlOS00MTAxLWE3ODktOTc2ODczMmJmNjkwXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg</character_image_full>
             <actor_name>Tim McInnerny</actor_name>
             <actor_link>/name/nm0570570/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Robin Arryn</character_name>
@@ -3892,6 +4214,7 @@
                 <name>Jon Arryn</name>
                 <name>Lysa Arryn</name>
             </parents>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Rodrik Cassel</character_name>
@@ -3906,6 +4229,7 @@
             <serves>
                 <name>Eddard Stark</name>
             </serves>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Roose Bolton</character_name>
@@ -3929,6 +4253,8 @@
             <killed_by>
                 <name>Ramsay Snow</name>
             </killed_by>
+            <name_actor/>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Rorge</character_name>
@@ -3940,6 +4266,7 @@
             <killed_by>
                 <name>Arya Stark</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Ros</character_name>
@@ -3951,6 +4278,7 @@
             <killed_by>
                 <name>Joffrey Baratheon</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Roslin Frey</character_name>
@@ -3969,12 +4297,15 @@
                 <name>Robb Stark</name>
                 <name>Edmure Tully</name>
             </married_engaged>
+            <name_actor/>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Royal Steward</character_name>
             <character_link>/character/ch0305048/</character_link>
             <actor_name>Robert Sterne</actor_name>
             <actor_link>/name/nm1414435/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Ryger Rivers</character_name>
@@ -3984,6 +4315,7 @@
             <parents>
                 <name>Walder Frey</name>
             </parents>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Salladhor Saan</character_name>
@@ -3992,6 +4324,7 @@
             <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BMzIyNzg3MDktM2M3OS00YzUzLTk2ZjktMGMxY2Y5Y2IyMGVhXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg</character_image_full>
             <actor_name>Lucian Msamati</actor_name>
             <actor_link>/name/nm1748634/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Samwell Tarly</character_name>
@@ -4018,6 +4351,7 @@
                 <name>White Walker</name>
                 <name>Thenn Warg</name>
             </killed>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Sandor Clegane</character_name>
@@ -4051,6 +4385,7 @@
             <killed_by>
                 <name>Sandor Clegane</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Sansa Stark</character_name>
@@ -4081,6 +4416,8 @@
                 <name>Tyrion Lannister</name>
                 <name>Ramsay Snow</name>
             </married_engaged>
+            <name_actor/>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Selyse Baratheon</character_name>
@@ -4120,6 +4457,7 @@
             <killed_by>
                 <name>Selyse Baratheon</name>
             </killed_by>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Septa Moelle</character_name>
@@ -4128,6 +4466,7 @@
             <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ3ODQ3NzIzMV5BMl5BanBnXkFtZTgwODczMjk5NTE@._V1_SY1000_CR0,0,1502,1000_AL_.jpg</character_image_full>
             <actor_name>Maggie Hayes</actor_name>
             <actor_link>/name/nm1378629/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Septa Mordane</character_name>
@@ -4139,6 +4478,7 @@
             <killed_by>
                 <name>Lannister Guardsman</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Septa Scolera</character_name>
@@ -4147,6 +4487,7 @@
             <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ3ODQ3NzIzMV5BMl5BanBnXkFtZTgwODczMjk5NTE@._V1_SY1000_CR0,0,1502,1000_AL_.jpg</character_image_full>
             <actor_name>Mary Jordan</actor_name>
             <actor_link>/name/nm1103771/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Septa Unella</character_name>
@@ -4155,18 +4496,21 @@
             <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BYzUwNTlhNTktNDViMS00ZmJiLWJlMDMtNTUzZWU1ZTVjZTY4XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg</character_image_full>
             <actor_name>Hannah Waddingham</actor_name>
             <actor_link>/name/nm1821446/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Septon</character_name>
             <character_link>/character/ch0540865/</character_link>
             <actor_name>Kenneth Hadley</actor_name>
             <actor_link>/name/nm0352901/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Septon</character_name>
             <character_link>/character/ch0540865/</character_link>
             <actor_name>Terry Byrne</actor_name>
             <actor_link>/name/nm0126298/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Ser Endrew Tarth</character_name>
@@ -4175,6 +4519,7 @@
             <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BMjJmYzRlZTUtODkwNS00OTE4LTllYWUtOTdiMGQ1MTE2MTU4XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg</character_image_full>
             <actor_name>Dez McMahon</actor_name>
             <actor_link>/name/nm4757478/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Shae</character_name>
@@ -4186,6 +4531,7 @@
             <killed_by>
                 <name>Tyrion Lannister</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Shagga</character_name>
@@ -4194,6 +4540,7 @@
             <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BY2Y1YTI2YTMtY2E3Ny00OTliLTg2MWYtMTFlYWU3ZjAyYzFiXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg</character_image_full>
             <actor_name>Mark Lewis Jones</actor_name>
             <actor_link>/name/nm0428765/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Shaggydog</character_name>
@@ -4213,6 +4560,7 @@
             <killed_by>
                 <name>Smalljon Umber</name>
             </killed_by>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Shireen Baratheon</character_name>
@@ -4231,6 +4579,8 @@
             <killed_by>
                 <name>Melisandre</name>
             </killed_by>
+            <name_actor/>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Silk King</character_name>
@@ -4242,6 +4592,7 @@
             <killed_by>
                 <name>Pyat Pree</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Smalljon Umber</character_name>
@@ -4259,6 +4610,7 @@
             <killed_by>
                 <name>Tormund Giantsbane</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Spice King</character_name>
@@ -4270,6 +4622,7 @@
             <killed_by>
                 <name>Pyat Pree</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Stannis Baratheon</character_name>
@@ -4298,36 +4651,43 @@
             <killed_by>
                 <name>Brienne of Tarth</name>
             </killed_by>
+            <name_actor/>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Stark Bannerman</character_name>
             <character_link>/character/ch0517008/</character_link>
             <actor_name>Michael Stuart</actor_name>
             <actor_link>/name/nm5792452/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Stark Guard</character_name>
             <character_link>/character/ch0305311/</character_link>
             <actor_name>Faolan Morgan</actor_name>
             <actor_link>/name/nm4335246/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Stark Guard</character_name>
             <character_link>/character/ch0305311/</character_link>
             <actor_name>Rick Burn</actor_name>
             <actor_link>/name/nm4492916/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Stark Guard</character_name>
             <character_link>/character/ch0305311/</character_link>
             <actor_name>David Sheehan</actor_name>
             <actor_link>/name/nm1423916/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Stark Guard</character_name>
             <character_link>/character/ch0305311/</character_link>
             <actor_name>Paul Monahan</actor_name>
             <actor_link>/name/nm5981376/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Steelshanks Walton</character_name>
@@ -4336,6 +4696,7 @@
             <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BMjIxOWYwYTctNjFlMy00MmUyLWI4MWYtZjhkMzNhYjI5YzQ1XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg</character_image_full>
             <actor_name>Jamie Michie</actor_name>
             <actor_link>/name/nm1652341/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Stevron Frey</character_name>
@@ -4345,6 +4706,8 @@
             <houses>
                 <house_name>Frey</house_name>
             </houses>
+            <name_actor/>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Stiv</character_name>
@@ -4356,6 +4719,7 @@
             <killed_by>
                 <name>Theon Greyjoy</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Styr</character_name>
@@ -4370,6 +4734,7 @@
             <killed_by>
                 <name>Jon Snow</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Summer</character_name>
@@ -4392,6 +4757,7 @@
             <killed_by>
                 <name>Wights</name>
             </killed_by>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Syrio Forel</character_name>
@@ -4403,6 +4769,7 @@
             <killed_by>
                 <name>Meryn Trant</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Talisa Maegyr</character_name>
@@ -4417,6 +4784,7 @@
             <killed_by>
                 <name>Lothar Frey</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Talla Tarly</character_name>
@@ -4436,12 +4804,15 @@
                 <name>Dickon Tarly</name>
                 <name>Samwell Tarly</name>
             </siblings>
+            <name_actor/>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Ternesio Terys</character_name>
             <character_link>/character/ch0473552/</character_link>
             <actor_name>Gary Oliver</actor_name>
             <actor_link>/name/nm1146807/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>The Bear</character_name>
@@ -4450,6 +4821,7 @@
             <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BMzE0ODQyNzYtZjc4NC00ZmM5LWI5NTgtOTk2OWQ5NjY3ZmVkXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg</character_image_full>
             <actor_name>Bart the Bear</actor_name>
             <actor_link>/name/nm1212069/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>The Night King</character_name>
@@ -4498,6 +4870,7 @@
             <killed_by>
                 <name>Jaqen H'ghar</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>The Waif</character_name>
@@ -4512,6 +4885,7 @@
             <killed_by>
                 <name>Arya Stark</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Thenn Warg</character_name>
@@ -4521,6 +4895,7 @@
             <killed_by>
                 <name>Samwell Tarly</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Theon Greyjoy</character_name>
@@ -4548,12 +4923,15 @@
             <killed_by>
                 <name>The Night King</name>
             </killed_by>
+            <name_actor/>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Thin Man</character_name>
             <character_link>/character/ch0540863/</character_link>
             <actor_name>Oengus MacNamara</actor_name>
             <actor_link>/name/nm0534062/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Thoros of Myr</character_name>
@@ -4562,6 +4940,7 @@
             <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BMTYwNzc0MDUzNF5BMl5BanBnXkFtZTcwMDc1NzE5OQ@@._V1_.jpg</character_image_full>
             <actor_name>Paul Kaye</actor_name>
             <actor_link>/name/nm0443373/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Three-Eyed Raven</character_name>
@@ -4595,24 +4974,28 @@
             <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BMTM5MjU1NzA1NF5BMl5BanBnXkFtZTcwOTA2Nzk1NQ@@._V1_.jpg</character_image_full>
             <actor_name>Tobias Winter</actor_name>
             <actor_link>/name/nm4385245/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Tobho Mott</character_name>
             <character_link>/character/ch0305039/</character_link>
             <actor_name>Andrew Wilde</actor_name>
             <actor_link>/name/nm0928408/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Todder</character_name>
             <character_link>/character/ch0509452/</character_link>
             <actor_name>Will O'Connell</actor_name>
             <actor_link>/name/nm3727276/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Tomard</character_name>
             <character_link>/character/ch0305325/</character_link>
             <actor_name>Phil Dixon</actor_name>
             <actor_link>/name/nm4475303/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Tommen Baratheon</character_name>
@@ -4660,6 +5043,7 @@
             <killed_by>
                 <name>Tommen Baratheon</name>
             </killed_by>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Tormund Giantsbane</character_name>
@@ -4672,6 +5056,7 @@
                 <name>Rattleshirt</name>
                 <name>Smalljon Umber</name>
             </killed>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Trystane Martell</character_name>
@@ -4692,6 +5077,8 @@
             <killed_by>
                 <name>Obara Sand</name>
             </killed_by>
+            <name_actor/>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Tycho Nestoris</character_name>
@@ -4700,6 +5087,7 @@
             <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BOTFjYWJjZTEtM2Y1Zi00YzE0LTkzOTItZGZkNzM2YjBiNjg5XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg</character_image_full>
             <actor_name>Mark Gatiss</actor_name>
             <actor_link>/name/nm0309693/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Tyene Sand</character_name>
@@ -4722,6 +5110,8 @@
             <killed_by>
                 <name>Cersei Lannister</name>
             </killed_by>
+            <name_actor/>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Tyrion Lannister</character_name>
@@ -4750,6 +5140,8 @@
             <serves>
                 <name>Daenerys Targaryen</name>
             </serves>
+            <name_actor/>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Tywin Lannister</character_name>
@@ -4775,6 +5167,8 @@
             <served_by>
                 <name>Gregor Clegane</name>
             </served_by>
+            <name_actor/>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Vala</character_name>
@@ -4783,6 +5177,7 @@
             <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BYzdiYzllYjMtMGJmNC00NWIwLWIwMzEtOTM1Mjk4ZTkxZDM1XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg</character_image_full>
             <actor_name>Meena Rayann</actor_name>
             <actor_link>/name/nm5159884/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Vardis Egen</character_name>
@@ -4794,6 +5189,7 @@
             <killed_by>
                 <name>Bronn</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Varly</character_name>
@@ -4803,6 +5199,7 @@
             <killed_by>
                 <name>Goldcloak</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Viserion</character_name>
@@ -4824,6 +5221,7 @@
                 <name>The Night King</name>
                 <name>Arya Stark</name>
             </killed_by>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Viserys Targaryen</character_name>
@@ -4847,6 +5245,8 @@
             <killed_by>
                 <name>Khal Drogo</name>
             </killed_by>
+            <name_actor/>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Walda Bolton</character_name>
@@ -4865,6 +5265,8 @@
             <killed_by>
                 <name>Ramsay Snow's Hounds</name>
             </killed_by>
+            <name_actor/>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Walder Frey</character_name>
@@ -4889,6 +5291,8 @@
             <killed_by>
                 <name>Arya Stark</name>
             </killed_by>
+            <name_actor/>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Wallen</character_name>
@@ -4896,6 +5300,7 @@
             <killed_by>
                 <name>Robb Stark</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Warlock</character_name>
@@ -4904,6 +5309,7 @@
             <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BMzE0NjExMGMtYjJlOC00MWI4LTg5MTgtYTIzZTgxZjc2NDAyXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg</character_image_full>
             <actor_name>Lottie Steer</actor_name>
             <actor_link>/name/nm5390029/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Waymar Royce</character_name>
@@ -4918,12 +5324,14 @@
             <killed_by>
                 <name>White Walker</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Wedding Band</character_name>
             <character_link>/character/ch0506962/</character_link>
             <actor_name>Sigur Rós</actor_name>
             <actor_link>/name/nm1460176/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>White Walker</character_name>
@@ -4932,6 +5340,7 @@
             <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BMjYzNDMyZWUtMDVlMy00OGQxLWFkZTctOWMxZDk1MDA5MmQzXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg</character_image_full>
             <actor_name>Ian Whyte</actor_name>
             <actor_link>/name/nm1613839/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>White Walker</character_name>
@@ -4943,6 +5352,7 @@
             <killed_by>
                 <name>Samwell Tarly</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>White Walker</character_name>
@@ -4957,6 +5367,7 @@
             <killed_by>
                 <name>Jon Snow</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>White Walker #2</character_name>
@@ -4965,6 +5376,7 @@
             <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BMjYzNDMyZWUtMDVlMy00OGQxLWFkZTctOWMxZDk1MDA5MmQzXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg</character_image_full>
             <actor_name>Spencer Wilding</actor_name>
             <actor_link>/name/nm1872855/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Wight Wildling Girl</character_name>
@@ -4973,12 +5385,14 @@
             <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BNTg0OTdiOTYtNjBlYS00ZjI1LWEzMTAtODExOWRhNDZhMWNhXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg</character_image_full>
             <actor_name>Claire Wright</actor_name>
             <actor_link>/name/nm4422708/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Wildling Rioter</character_name>
             <character_link>/character/ch0348391/</character_link>
             <actor_name>Michael Patrick</actor_name>
             <actor_link>/name/nm8199963/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Will</character_name>
@@ -4990,6 +5404,7 @@
             <killed_by>
                 <name>Eddard Stark</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Willem Lannister</character_name>
@@ -5009,6 +5424,8 @@
             <killed_by>
                 <name>Rickard Karstark</name>
             </killed_by>
+            <name_actor/>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Willis Wode</character_name>
@@ -5020,18 +5437,21 @@
             <killed_by>
                 <name>Mountain Clansman</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Wine Merchant</character_name>
             <character_link>/character/ch0305323/</character_link>
             <actor_name>Simon Lowe</actor_name>
             <actor_link>/name/nm0523047/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Winterfell Shepherd</character_name>
             <character_link>/character/ch0306456/</character_link>
             <actor_name>Donagh Deeney</actor_name>
             <actor_link>/name/nm0214343/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Wun Wun</character_name>
@@ -5047,12 +5467,14 @@
                 <name>Ramsay Snow</name>
                 <name>Lyanna Mormont</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Wyllis</character_name>
             <character_link>/character/ch0238584/</character_link>
             <actor_name>Sam Coleman</actor_name>
             <actor_link>/name/nm4744043/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Xaro Xhoan Daxos</character_name>
@@ -5064,6 +5486,7 @@
             <killed_by>
                 <name>Daenerys Targaryen</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Yara Greyjoy</character_name>
@@ -5081,6 +5504,8 @@
             <siblings>
                 <name>Theon Greyjoy</name>
             </siblings>
+            <name_actor/>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Yezzan zo Qaggaz</character_name>
@@ -5089,6 +5514,7 @@
             <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BZDgyOTFhMzktNWE5MS00YTY3LTk0YTYtMjkyMjFkODIxOTJiXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg</character_image_full>
             <actor_name>Enzo Cilenti</actor_name>
             <actor_link>/name/nm0162281/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Ygritte</character_name>
@@ -5109,6 +5535,7 @@
             <killed_by>
                 <name>Olly</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Yohn Royce</character_name>
@@ -5120,6 +5547,7 @@
             <parent_of>
                 <name>Waymar Royce</name>
             </parent_of>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Yoren</character_name>
@@ -5131,6 +5559,7 @@
             <killed_by>
                 <name>Amory Lorch</name>
             </killed_by>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Young Benjen Stark</character_name>
@@ -5140,6 +5569,8 @@
             <houses>
                 <house_name>Stark</house_name>
             </houses>
+            <name_actor/>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Young Cersei Lannister</character_name>
@@ -5149,6 +5580,8 @@
             <houses>
                 <house_name>Lannister</house_name>
             </houses>
+            <name_actor/>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Young Lyanna Stark</character_name>
@@ -5158,12 +5591,15 @@
             <houses>
                 <house_name>Stark</house_name>
             </houses>
+            <name_actor/>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Young Nan</character_name>
             <character_link>/character/ch0305018/</character_link>
             <actor_name>Annette Tierney</actor_name>
             <actor_link>/name/nm1519719/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Young Ned</character_name>
@@ -5173,6 +5609,8 @@
             <houses>
                 <house_name>Stark</house_name>
             </houses>
+            <name_actor/>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Young Ned Stark</character_name>
@@ -5182,12 +5620,15 @@
             <houses>
                 <house_name>Stark</house_name>
             </houses>
+            <name_actor/>
+            <houseName/>
         </character_data>
         <character_data>
             <character_name>Young Rodrik Cassel</character_name>
             <character_link>/character/ch0171391/</character_link>
             <actor_name>Fergus Leathem</actor_name>
             <actor_link>/name/nm7509186/</actor_link>
+            <name_actor/>
         </character_data>
         <character_data>
             <character_name>Zanrush</character_name>
@@ -5196,6 +5637,7 @@
             <character_image_full>https://images-na.ssl-images-amazon.com/images/M/MV5BNTJjYzk1MGMtNjE3Mi00NjE2LTkzMWUtNGRjODVlY2JmMmI5XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg</character_image_full>
             <actor_name>Gerald Lepkowski</actor_name>
             <actor_link>/name/nm0503319/</actor_link>
+            <name_actor/>
         </character_data>
     </characters>
 </character>

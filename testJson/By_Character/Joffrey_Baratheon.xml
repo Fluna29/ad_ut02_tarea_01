@@ -30,4 +30,6 @@
         <name>Petyr Baelish</name>
         <name>Olenna Tyrell</name>
     </killed_by>
+    <name_actor/>
+    <houseName/>
 </character>

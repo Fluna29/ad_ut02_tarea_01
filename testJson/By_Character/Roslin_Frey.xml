@@ -16,4 +16,6 @@
         <name>Robb Stark</name>
         <name>Edmure Tully</name>
     </married_engaged>
+    <name_actor/>
+    <houseName/>
 </character>

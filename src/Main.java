@@ -1,14 +1,26 @@
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
+import com.google.gson.JsonElement;
+import com.google.gson.JsonParser;
 import com.google.gson.reflect.TypeToken;
 import java.io.InputStreamReader;
+import java.io.StringReader;
 import java.net.URL;
+import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
+
+import com.google.gson.stream.JsonReader;
 import jakarta.xml.bind.JAXBContext;
 import jakarta.xml.bind.Marshaller;
+import org.w3c.dom.Document;
+import org.w3c.dom.Element;
+import org.w3c.dom.Node;
+import org.w3c.dom.NodeList;
 
 import javax.xml.XMLConstants;
+import javax.xml.parsers.DocumentBuilder;
+import javax.xml.parsers.DocumentBuilderFactory;
 import javax.xml.transform.stream.StreamSource;
 import javax.xml.validation.Schema;
 import javax.xml.validation.SchemaFactory;
@@ -69,6 +81,11 @@ public class Main {
             // Validate characters_novalid.xml
             validateXml("testJson/characters_novalid.xml", "testJson/characters.xsd");
 
+            // Parse the XML file to a DOM document
+            parsingDom("testJson/characters.xml").forEach(character -> {
+                System.out.println("\nCharacter Name: " + character.getCharacterName());
+                System.out.println("Actor Name: " + (character.getActorNameAsString() != null ? character.getActorNameAsString() : "?"));
+            });
 
         } catch (Exception e) {
             e.printStackTrace();
@@ -125,4 +142,73 @@ public class Main {
         }
     }
 
+    public static List<CharactersJson> parsingDom(String xmlfilePath) {
+        List<CharactersJson> charactersList = new ArrayList<>();
+
+        try {
+            // Create a DocumentBuilderFactory and DocumentBuilder
+            DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
+            DocumentBuilder builder = factory.newDocumentBuilder();
+
+            // Parse the XML file to a DOM document
+            Document document = builder.parse(xmlfilePath);
+            document.getDocumentElement().normalize();
+
+            // Obtain the list of nodes with the tag "character_data"
+            NodeList nodeList = document.getElementsByTagName("character_data");
+
+            // Iterate over the nodes
+            for (int i = 0; i < nodeList.getLength(); i++) {
+                Node node = nodeList.item(i);
+
+                if (node.getNodeType() == Node.ELEMENT_NODE) {
+                    Element element = (Element) node;
+
+                    // Create a new CharactersJson object
+                    CharactersJson character = new CharactersJson();
+
+                    // Set the attributes of the character object
+                    character.setCharacterName(getTextContent(element, "character_name"));
+                    character.setCharacterLink(getTextContent(element, "character_link"));
+                    character.setCharacterImageThumb(getTextContent(element, "character_image_thumb"));
+                    character.setCharacterImageFull(getTextContent(element, "character_image_full"));
+
+                    // Create a JSON element for the actor name
+                    String actorName = getTextContent(element, "actor_name");
+                    JsonElement actorNameJson = parseJsonLenient("\"" + (actorName != null ? actorName : "?") + "\"");
+                    character.setActorName(actorNameJson);
+
+                    character.setActorLink(getTextContent(element, "actor_link"));
+                    character.setNickname(getTextContent(element, "nickname"));
+                    character.setRoyal(Boolean.parseBoolean(getTextContent(element, "royal")));
+                    character.setKingsguard(Boolean.parseBoolean(getTextContent(element, "kingsguard")));
+
+                    // Add character to the list
+                    charactersList.add(character);
+                }
+            }
+        }catch (Exception e){
+            e.printStackTrace();
+        }
+        return charactersList;
+    }
+
+    //Method to get the text content of an element
+    private static String getTextContent(Element element , String tagName) {
+        NodeList nodeList = element.getElementsByTagName(tagName);
+        if (nodeList.getLength() > 0) {
+            Node node = nodeList.item(0);
+            if (node != null && node.getNodeType() == Node.ELEMENT_NODE) {
+                return node.getTextContent();
+            }
+        }
+        return null;
+    }
+
+    // Method to parse JSON in lenient mode
+    private static JsonElement parseJsonLenient(String jsonString) {
+        JsonReader reader = new JsonReader(new StringReader(jsonString));
+        reader.setLenient(true);
+        return JsonParser.parseReader(reader);
+    }
 }

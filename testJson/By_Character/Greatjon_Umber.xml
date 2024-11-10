@@ -9,4 +9,5 @@
     <parent_of>
         <name>Smalljon Umber</name>
     </parent_of>
+    <name_actor/>
 </character>

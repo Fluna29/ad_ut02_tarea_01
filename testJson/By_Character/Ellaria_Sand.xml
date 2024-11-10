@@ -19,4 +19,6 @@
         <name>Myrcella Baratheon</name>
         <name>Doran Martell</name>
     </killed>
+    <name_actor/>
+    <houseName/>
 </character>
